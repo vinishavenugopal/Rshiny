@@ -1,0 +1,1072 @@
+Quote,Sex,Site of Motor Onset,Site of Motor Onset Detail,Age at Symptom Onset,Age at Death,Sample Source,RIN,Platform,Sex Call,Final Subject Group - Bowser lab defined
+CGND_12616,Female,Limb,"Limb - Lower Limb, Left Leg",59,60,Cortex_Frontal,6.5,HiSeq 2500,female,ALS + ATXN2 Intermediate repeat length
+CGND_12616,Female,Limb,"Limb - Lower Limb, Left Leg",59,60,Spinal_Cord_Lumbar,2.6,HiSeq 2500,female,ALS + ATXN2 Intermediate repeat length
+CGND_12616,Female,Limb,"Limb - Lower Limb, Left Leg",59,60,Spinal_Cord_Cervical,7.9,HiSeq 2500,female,ALS + ATXN2 Intermediate repeat length
+CGND_12616,Female,Limb,"Limb - Lower Limb, Left Leg",59,60,Cortex_Motor_Medial,7.9,HiSeq 2500,female,ALS + ATXN2 Intermediate repeat length
+CGND_12616,Female,Limb,"Limb - Lower Limb, Left Leg",59,60,Cerebellum,6.7,HiSeq 2500,female,ALS + ATXN2 Intermediate repeat length
+CGND_12616,Female,Limb,"Limb - Lower Limb, Left Leg",59,60,Cortex_Motor_Lateral,5.9,HiSeq 2500,female,ALS + ATXN2 Intermediate repeat length
+CGND_13234,Female,Limb,"Limb - Lower Limb, Left Leg",59,60,Cortex_Occipital,4.4,HiSeq 2500,female,ALS + ATXN2 Intermediate repeat length
+CGND_13234,Female,Limb,"Limb - Lower Limb, Left Leg",59,60,Spinal_Cord_Thoracic,6,HiSeq 2500,female,ALS + ATXN2 Intermediate repeat length
+CGND_13867,Female,Limb,"Limb - Lower Limb, Left Leg",59,60,Medulla,6.5,NovaSeq,female,ALS + ATXN2 Intermediate repeat length
+CGND_12616,Male,Bulbar,Bulbar,55,62,Cortex_Frontal,6.6,HiSeq 2500,male,ALS
+CGND_12616,Male,Bulbar,Bulbar,55,62,Spinal_Cord_Lumbar,2.6,HiSeq 2500,male,ALS
+CGND_12616,Male,Bulbar,Bulbar,55,62,Spinal_Cord_Cervical,7.3,HiSeq 2500,male,ALS
+CGND_12616,Male,Bulbar,Bulbar,55,62,Cortex_Motor_Medial,6.4,HiSeq 2500,male,ALS
+CGND_12616,Male,Bulbar,Bulbar,55,62,Cerebellum,6.4,HiSeq 2500,male,ALS
+CGND_12616,Male,Bulbar,Bulbar,55,62,Cortex_Motor_Lateral,2.4,HiSeq 2500,male,ALS
+CGND_13234,Male,Bulbar,Bulbar,55,62,Cortex_Occipital,4.9,HiSeq 2500,male,ALS
+CGND_13315,Male,Bulbar,Bulbar,55,62,Spinal_Cord_Thoracic,6.6,HiSeq 2500,male,ALS
+CGND_12616,Female,Limb,"Limb - Upper Limb, Left Arm",58,62,Cortex_Frontal,6.8,HiSeq 2500,female,ALS
+CGND_12616,Female,Limb,"Limb - Upper Limb, Left Arm",58,62,Spinal_Cord_Lumbar,2.3,HiSeq 2500,female,ALS
+CGND_12616,Female,Limb,"Limb - Upper Limb, Left Arm",58,62,Spinal_Cord_Cervical,6.2,HiSeq 2500,female,ALS
+CGND_12616,Female,Limb,"Limb - Upper Limb, Left Arm",58,62,Cortex_Motor_Medial,5.8,HiSeq 2500,female,ALS
+CGND_12616,Female,Limb,"Limb - Upper Limb, Left Arm",58,62,Cerebellum,5.3,HiSeq 2500,female,ALS
+CGND_12616,Female,Limb,"Limb - Upper Limb, Left Arm",58,62,Cortex_Motor_Lateral,4,HiSeq 2500,female,ALS
+CGND_13234,Female,Limb,"Limb - Upper Limb, Left Arm",58,62,Cortex_Occipital,6.2,HiSeq 2500,female,ALS
+CGND_12616,Female,Bulbar,Bulbar,67,69,Cortex_Frontal,6.4,HiSeq 2500,female,ALS/FTD + C9 repeat expansion
+CGND_12616,Female,Bulbar,Bulbar,67,69,Spinal_Cord_Lumbar,8,HiSeq 2500,female,ALS/FTD + C9 repeat expansion
+CGND_12616,Female,Bulbar,Bulbar,67,69,Spinal_Cord_Cervical,6.9,HiSeq 2500,female,ALS/FTD + C9 repeat expansion
+CGND_12616,Female,Bulbar,Bulbar,67,69,Cortex_Motor_Medial,5.7,HiSeq 2500,female,ALS/FTD + C9 repeat expansion
+CGND_12616,Female,Bulbar,Bulbar,67,69,Cerebellum,6.3,HiSeq 2500,female,ALS/FTD + C9 repeat expansion
+CGND_12616,Female,Bulbar,Bulbar,67,69,Cortex_Motor_Lateral,7.4,HiSeq 2500,female,ALS/FTD + C9 repeat expansion
+CGND_13234,Female,Bulbar,Bulbar,67,69,Cortex_Occipital,5.1,HiSeq 2500,female,ALS/FTD + C9 repeat expansion
+CGND_13315,Female,Bulbar,Bulbar,67,69,Spinal_Cord_Thoracic,6.8,HiSeq 2500,female,ALS/FTD + C9 repeat expansion
+CGND_12616,Female,Bulbar,Bulbar - Speech and Swallowing,67,70,Cortex_Frontal,7.3,HiSeq 2500,female,ALS
+CGND_12616,Female,Bulbar,Bulbar - Speech and Swallowing,67,70,Spinal_Cord_Cervical,8.7,HiSeq 2500,female,ALS
+CGND_12616,Female,Bulbar,Bulbar - Speech and Swallowing,67,70,Cortex_Motor_Medial,6.2,HiSeq 2500,female,ALS
+CGND_12616,Female,Bulbar,Bulbar - Speech and Swallowing,67,70,Cerebellum,6.5,HiSeq 2500,female,ALS
+CGND_12795,Female,Bulbar,Bulbar - Speech and Swallowing,67,70,Cortex_Motor_Lateral,7.1,HiSeq 2500,female,ALS
+CGND_13234,Female,Bulbar,Bulbar - Speech and Swallowing,67,70,Cortex_Occipital,5.9,HiSeq 2500,female,ALS
+CGND_13315,Female,Bulbar,Bulbar - Speech and Swallowing,67,70,Spinal_Cord_Thoracic,7.1,HiSeq 2500,female,ALS
+CGND_12616,Male,Limb,"Limb - Lower Limb, Leg",70,74,Cortex_Frontal,7.1,HiSeq 2500,male,ALS + dementia/Lewy bodies
+CGND_12616,Male,Limb,"Limb - Lower Limb, Leg",70,74,Spinal_Cord_Lumbar,2.8,HiSeq 2500,male,ALS + dementia/Lewy bodies
+CGND_12616,Male,Limb,"Limb - Lower Limb, Leg",70,74,Spinal_Cord_Cervical,7.1,HiSeq 2500,male,ALS + dementia/Lewy bodies
+CGND_12616,Male,Limb,"Limb - Lower Limb, Leg",70,74,Cortex_Motor_Medial,6.2,HiSeq 2500,male,ALS + dementia/Lewy bodies
+CGND_12616,Male,Limb,"Limb - Lower Limb, Leg",70,74,Cerebellum,6.6,HiSeq 2500,male,ALS + dementia/Lewy bodies
+CGND_12616,Male,Limb,"Limb - Lower Limb, Leg",70,74,Cortex_Motor_Lateral,6.8,HiSeq 2500,male,ALS + dementia/Lewy bodies
+CGND_13234,Male,Limb,"Limb - Lower Limb, Leg",70,74,Spinal_Cord_Thoracic,7.1,HiSeq 2500,male,ALS + dementia/Lewy bodies
+CGND_13234,Male,Limb,"Limb - Lower Limb, Leg",70,74,Cortex_Occipital,5.2,HiSeq 2500,male,ALS + dementia/Lewy bodies
+CGND_12616,Male,Bulbar,Bulbar - Speech,70,71,Spinal_Cord_Lumbar,2.3,HiSeq 2500,male,ALS/FTD
+CGND_12616,Male,Bulbar,Bulbar - Speech,70,71,Spinal_Cord_Cervical,6.1,HiSeq 2500,male,ALS/FTD
+CGND_12616,Male,Bulbar,Bulbar - Speech,70,71,Cortex_Motor_Medial,6.6,HiSeq 2500,male,ALS/FTD
+CGND_12616,Male,Bulbar,Bulbar - Speech,70,71,Cerebellum,5.8,HiSeq 2500,male,ALS/FTD
+CGND_12856,Male,Bulbar,Bulbar - Speech,70,71,Cortex_Frontal,6,HiSeq 2500,male,ALS/FTD
+CGND_12856,Male,Bulbar,Bulbar - Speech,70,71,Cortex_Motor_Lateral,5.9,HiSeq 2500,male,ALS/FTD
+CGND_13234,Male,Bulbar,Bulbar - Speech,70,71,Cortex_Occipital,4.6,HiSeq 2500,male,ALS/FTD
+CGND_13315,Male,Bulbar,Bulbar - Speech,70,71,Spinal_Cord_Thoracic,5.3,HiSeq 2500,male,ALS/FTD
+CGND_13867,Male,Bulbar,Bulbar - Speech,70,71,Spinal_Cord_Cervical,,NovaSeq,male,ALS/FTD
+CGND_12616,Male,Limb,"Limb - Lower Limb, Right Leg, Ankle/Foot/Toes",67,68,Spinal_Cord_Lumbar,4.5,HiSeq 2500,male,ALS
+CGND_12616,Male,Limb,"Limb - Lower Limb, Right Leg, Ankle/Foot/Toes",67,68,Spinal_Cord_Cervical,6,HiSeq 2500,male,ALS
+CGND_12616,Male,Limb,"Limb - Lower Limb, Right Leg, Ankle/Foot/Toes",67,68,Cortex_Motor_Medial,6.4,HiSeq 2500,male,ALS
+CGND_12616,Male,Limb,"Limb - Lower Limb, Right Leg, Ankle/Foot/Toes",67,68,Cerebellum,6.1,HiSeq 2500,male,ALS
+CGND_12616,Male,Limb,"Limb - Lower Limb, Right Leg, Ankle/Foot/Toes",67,68,Cortex_Motor_Lateral,2.6,HiSeq 2500,male,ALS
+CGND_12856,Male,Limb,"Limb - Lower Limb, Right Leg, Ankle/Foot/Toes",67,68,Cortex_Frontal,5.7,HiSeq 2500,male,ALS
+CGND_13234,Male,Limb,"Limb - Lower Limb, Right Leg, Ankle/Foot/Toes",67,68,Cortex_Occipital,6.3,HiSeq 2500,male,ALS
+CGND_13315,Male,Limb,"Limb - Lower Limb, Right Leg, Ankle/Foot/Toes",67,68,Spinal_Cord_Thoracic,7,HiSeq 2500,male,ALS
+CGND_12675,Female,Bulbar,Bulbar,77,77,Cerebellum,6.6,HiSeq 2500,female,ALS
+CGND_12675,Female,Limb,"Limb - Lower Limb, Bilateral",64,67,Cerebellum,5.8,HiSeq 2500,female,ALS
+CGND_12675,Male,Limb,"Limb - Upper Limb, Left Arm",47,53,Cerebellum,7.7,HiSeq 2500,male,ALS
+CGND_12675,Male,Limb,"Limb - Upper Limb, Right Arm",48,49,Cerebellum,7.8,HiSeq 2500,male,ALS
+CGND_12675,Male,Limb,"Limb - Lower Limb, Left Leg",62,65,Cerebellum,7.6,HiSeq 2500,male,ALS
+CGND_12675,Male,Bulbar,Bulbar - Speech,53,56,Cerebellum,8.1,HiSeq 2500,male,ALS
+CGND_12675,Male,Bulbar,Bulbar - Speech,53,56,Cortex_Frontal,8.9,HiSeq 2500,male,ALS
+CGND_12675,Male,Bulbar,Bulbar - Speech,53,56,Cortex_Motor_Medial,5.9,HiSeq 2500,male,ALS
+CGND_12675,Male,Bulbar,Bulbar - Speech,53,56,Cortex_Motor_Lateral,6.3,HiSeq 2500,male,ALS
+CGND_12675,Male,Bulbar,Bulbar - Speech,53,56,Spinal_Cord_Cervical,8.2,HiSeq 2500,male,ALS
+CGND_12675,Male,Bulbar,Bulbar - Speech,53,56,Spinal_Cord_Lumbar,7.4,HiSeq 2500,male,ALS
+CGND_12675,Male,Bulbar,Bulbar - Speech,57,69,Cerebellum,6.2,HiSeq 2500,male,ALS
+CGND_12675,Male,Bulbar,Bulbar - Speech,57,69,Cortex_Frontal,7.7,HiSeq 2500,male,ALS
+CGND_12675,Male,Bulbar,Bulbar - Speech,57,69,Cortex_Motor_Medial,6.6,HiSeq 2500,male,ALS
+CGND_12675,Male,Bulbar,Bulbar - Speech,57,69,Cortex_Motor_Lateral,4.8,HiSeq 2500,male,ALS
+CGND_12675,Male,Bulbar,Bulbar - Speech,57,69,Spinal_Cord_Cervical,6.9,HiSeq 2500,male,ALS
+CGND_12675,Male,Bulbar,Bulbar - Speech,57,69,Spinal_Cord_Lumbar,6.1,HiSeq 2500,male,ALS
+CGND_12675,Female,Bulbar,Bulbar - Speech and Swallowing,70,71,Cerebellum,9,HiSeq 2500,female,ALS
+CGND_12675,Female,Bulbar,Bulbar - Speech and Swallowing,70,71,Cortex_Frontal,8.1,HiSeq 2500,female,ALS
+CGND_12675,Female,Bulbar,Bulbar - Speech and Swallowing,70,71,Cortex_Motor_Medial,6.8,HiSeq 2500,female,ALS
+CGND_12675,Female,Bulbar,Bulbar - Speech and Swallowing,70,71,Cortex_Motor_Lateral,7.5,HiSeq 2500,female,ALS
+CGND_12675,Female,Bulbar,Bulbar - Speech and Swallowing,70,71,Spinal_Cord_Cervical,8.2,HiSeq 2500,female,ALS
+CGND_12675,Female,Bulbar,Bulbar - Speech and Swallowing,70,71,Spinal_Cord_Lumbar,7.3,HiSeq 2500,female,ALS
+CGND_12675,Female,Not Applicable,Not Applicable,Not Applicable,54,Cerebellum,8.5,HiSeq 2500,female,Non-Neurologic Control
+CGND_12675,Female,Not Applicable,Not Applicable,Not Applicable,54,Cortex_Frontal,7.5,HiSeq 2500,female,Non-Neurologic Control
+CGND_12675,Female,Not Applicable,Not Applicable,Not Applicable,54,Cortex_Motor_Medial,5.7,HiSeq 2500,female,Non-Neurologic Control
+CGND_12675,Female,Not Applicable,Not Applicable,Not Applicable,54,Cortex_Motor_Lateral,6.5,HiSeq 2500,female,Non-Neurologic Control
+CGND_12675,Female,Not Applicable,Not Applicable,Not Applicable,54,Spinal_Cord_Cervical,6.7,HiSeq 2500,female,Non-Neurologic Control
+CGND_12675,Female,Not Applicable,Not Applicable,Not Applicable,54,Spinal_Cord_Lumbar,5.3,HiSeq 2500,female,Non-Neurologic Control
+CGND_12675,Female,Limb,"Limb - Upper Limb, Right Arm",69,71,Cerebellum,8.2,HiSeq 2500,female,ALS
+CGND_12675,Female,Limb,"Limb - Upper Limb, Right Arm",69,71,Cortex_Frontal,7.5,HiSeq 2500,female,ALS
+CGND_12675,Female,Limb,"Limb - Upper Limb, Right Arm",69,71,Cortex_Motor_Medial,5.9,HiSeq 2500,female,ALS
+CGND_12675,Female,Limb,"Limb - Upper Limb, Right Arm",69,71,Cortex_Motor_Lateral,6,HiSeq 2500,female,ALS
+CGND_12675,Female,Limb,"Limb - Upper Limb, Right Arm",69,71,Spinal_Cord_Cervical,7.4,HiSeq 2500,female,ALS
+CGND_12675,Female,Limb,"Limb - Upper Limb, Right Arm",69,71,Spinal_Cord_Lumbar,6.9,HiSeq 2500,female,ALS
+CGND_12675,Female,Bulbar,Bulbar - Swallowing,70,72,Cerebellum,8.2,HiSeq 2500,female,ALS
+CGND_12675,Female,Bulbar,Bulbar - Swallowing,70,72,Cortex_Frontal,7.5,HiSeq 2500,female,ALS
+CGND_12675,Female,Bulbar,Bulbar - Swallowing,70,72,Cortex_Motor_Medial,6.3,HiSeq 2500,female,ALS
+CGND_12675,Female,Bulbar,Bulbar - Swallowing,70,72,Cortex_Motor_Lateral,6.1,HiSeq 2500,female,ALS
+CGND_12675,Female,Bulbar,Bulbar - Swallowing,70,72,Spinal_Cord_Cervical,7.2,HiSeq 2500,female,ALS
+CGND_12675,Female,Bulbar,Bulbar - Swallowing,70,72,Spinal_Cord_Lumbar,7.1,HiSeq 2500,female,ALS
+CGND_12795,Male,Unknown,Unknown,Unknown,53,Spinal_Cord_Cervical,6.8,HiSeq 2500,male,ALS
+CGND_12795,Male,Unknown,Unknown,Unknown,53,Cortex_Motor_Medial,6.8,HiSeq 2500,male,ALS
+CGND_12795,Male,Unknown,Unknown,Unknown,53,Cerebellum,6.2,HiSeq 2500,male,ALS
+CGND_12795,Male,Unknown,Unknown,Unknown,53,Cortex_Motor_Lateral,7.3,HiSeq 2500,male,ALS
+CGND_12856,Male,Unknown,Unknown,Unknown,53,Cortex_Frontal,8.1,HiSeq 2500,male,ALS
+CGND_12856,Male,Unknown,Unknown,Unknown,53,Spinal_Cord_Lumbar,6.9,HiSeq 2500,male,ALS
+CGND_12795,Female,Not Applicable,Not Applicable,Not Applicable,90 or Older,Cerebellum,7.2,HiSeq 2500,female,Non-Neurologic Control
+CGND_12795,Female,Not Applicable,Not Applicable,Not Applicable,90 or Older,Cortex_Motor_Lateral,7,HiSeq 2500,female,Non-Neurologic Control
+CGND_12856,Female,Not Applicable,Not Applicable,Not Applicable,90 or Older,Cortex_Frontal,6.1,HiSeq 2500,female,Non-Neurologic Control
+CGND_12856,Female,Not Applicable,Not Applicable,Not Applicable,90 or Older,Spinal_Cord_Lumbar,6.7,HiSeq 2500,female,Non-Neurologic Control
+CGND_12856,Female,Not Applicable,Not Applicable,Not Applicable,90 or Older,Spinal_Cord_Cervical,7,HiSeq 2500,female,Non-Neurologic Control
+CGND_12856,Female,Not Applicable,Not Applicable,Not Applicable,90 or Older,Cortex_Motor_Medial,7.1,HiSeq 2500,female,Non-Neurologic Control
+CGND_13234,Female,Not Applicable,Not Applicable,Not Applicable,90 or Older,Spinal_Cord_Thoracic,6.5,HiSeq 2500,female,Non-Neurologic Control
+CGND_13234,Female,Not Applicable,Not Applicable,Not Applicable,90 or Older,Cortex_Occipital,6.2,HiSeq 2500,female,Non-Neurologic Control
+CGND_12795,Female,Bulbar,Bulbar,63,63,Cerebellum,6.4,HiSeq 2500,female,ALS
+CGND_12795,Male,Bulbar,Bulbar,66,67,Liver,5.4,HiSeq 2500,male,ALS
+CGND_12795,Male,Limb,"Limb - Lower Limb, Bilateral",54,58,Cerebellum,6.8,HiSeq 2500,male,ALS
+CGND_12795,Female,Bulbar and Limb,Bulbar; Limb - Lower Limb,67,70,Cerebellum,6.9,HiSeq 2500,female,ALS
+CGND_12795,Female,Limb,"Limb - Upper and Lower Limb, Left",54,56,Liver,6.7,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_12795,Male,Limb,"Limb - Upper Limb, Left Arm",64,66,Cerebellum,4.4,HiSeq 2500,male,ALS + C9 repeat expansion
+CGND_12795,Male,Limb,Limb - Upper and Lower Limb,61,62,Cerebellum,5.1,HiSeq 2500,male,ALS
+CGND_12795,Male,Limb,"Limb - Lower Limb, Bilateral",58,59,Cerebellum,2.3,HiSeq 2500,male,ALS + ATXN2 Intermediate repeat length
+CGND_12795,Female,Limb,Limb - Upper and Lower Limb,33,34,Cortex_Motor_Unspecified,6.4,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_12795,Female,Bulbar and Limb,"Bulbar; Limb - Lower Limb, Right Leg",69,71,Cerebellum,8.1,HiSeq 2500,female,ALS
+CGND_12795,Male,Limb,"Limb - Upper Limb, Left",51,54,Cortex_Frontal,2.3,HiSeq 2500,male,ALS
+CGND_12795,Female,Limb,"Limb - Lower Limb, Bilateral",57,61,Cerebellum,6.6,HiSeq 2500,female,ALS
+CGND_12795,Male,Limb,"Limb - Lower Limb, Bilateral",49,51,Cerebellum,6.9,HiSeq 2500,male,ALS
+CGND_12795,Female,Limb,"Limb - Lower Limb, Bilateral",55,61,Liver,6.1,HiSeq 2500,female,ALS
+CGND_12795,Male,Not Applicable,Not Applicable,Not Applicable,80,Cerebellum,6,HiSeq 2500,male,Other Neurologic Disease - Dementia w/Lewy Bodies
+CGND_12795,Male,Limb,Limb - Upper and Lower Limb,72,72,Cerebellum,3.3,HiSeq 2500,male,ALS
+CGND_12795,Male,Limb,"Limb - Lower Limb, Left Leg",54,63,Cerebellum,7.2,HiSeq 2500,male,ALS
+CGND_12795,Male,Limb,Limb - Upper and Lower Limb,60,63,Cerebellum,3.3,HiSeq 2500,male,ALS
+CGND_12795,Female,Limb,"Limb - Lower Limb, Left Foot",67,70,Cerebellum,6.6,HiSeq 2500,female,ALS
+CGND_13043,Female,Limb,"Limb - Lower Limb, Left Foot",67,70,Cerebellum,6.9,HiSeq 2500,female,ALS
+CGND_13043,Female,Limb,"Limb - Lower Limb, Left Foot",67,70,Cortex_Frontal,8,HiSeq 2500,female,ALS
+CGND_13043,Female,Limb,"Limb - Lower Limb, Left Foot",67,70,Cortex_Occipital,5.6,HiSeq 2500,female,ALS
+CGND_13066,Female,Limb,"Limb - Lower Limb, Left Foot",67,70,Spinal_Cord_Thoracic,8,HiSeq 2500,female,ALS
+CGND_13066,Female,Limb,"Limb - Lower Limb, Left Foot",67,70,Cortex_Motor_Medial,6.6,HiSeq 2500,female,ALS
+CGND_13066,Female,Limb,"Limb - Lower Limb, Left Foot",67,70,Cortex_Motor_Lateral,7.1,HiSeq 2500,female,ALS
+CGND_13066,Female,Limb,"Limb - Lower Limb, Left Foot",67,70,Spinal_Cord_Lumbar,7.1,HiSeq 2500,female,ALS
+CGND_12795,Male,Bulbar,Bulbar,46,47,Cerebellum,6.8,HiSeq 2500,male,ALS
+CGND_13043,Male,Bulbar,Bulbar,46,47,Cortex_Frontal,5.7,HiSeq 2500,male,ALS
+CGND_13043,Male,Bulbar,Bulbar,46,47,Cortex_Occipital,7.2,HiSeq 2500,male,ALS
+CGND_13066,Male,Bulbar,Bulbar,46,47,Cortex_Motor_Medial,6.4,HiSeq 2500,male,ALS
+CGND_13066,Male,Bulbar,Bulbar,46,47,Cortex_Motor_Lateral,6.1,HiSeq 2500,male,ALS
+CGND_13132,Male,Bulbar,Bulbar,46,47,Spinal_Cord_Thoracic,7.3,HiSeq 2500,male,ALS
+CGND_12795,Female,Limb,"Limb - Lower Limb, Right Leg",54,58,Spinal_Cord_Cervical,6.7,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_13066,Female,Limb,"Limb - Lower Limb, Right Leg",54,58,Cortex_Motor_Unspecified,7.3,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_12795,Male,Limb,"Limb - Lower Limb, Left Leg",63,66,Cerebellum,6.8,HiSeq 2500,male,ALS
+CGND_13066,Male,Limb,"Limb - Lower Limb, Left Leg",63,66,Cerebellum,6.9,HiSeq 2500,male,ALS
+CGND_13066,Male,Limb,"Limb - Lower Limb, Left Leg",63,66,Cortex_Frontal,6.5,HiSeq 2500,male,ALS
+CGND_13066,Male,Limb,"Limb - Lower Limb, Left Leg",63,66,Cortex_Occipital,5.1,HiSeq 2500,male,ALS
+CGND_13066,Male,Limb,"Limb - Lower Limb, Left Leg",63,66,Spinal_Cord_Thoracic,5.8,HiSeq 2500,male,ALS
+CGND_13066,Male,Limb,"Limb - Lower Limb, Left Leg",63,66,Cortex_Motor_Medial,5.1,HiSeq 2500,male,ALS
+CGND_13066,Male,Limb,"Limb - Lower Limb, Left Leg",63,66,Cortex_Motor_Lateral,5.9,HiSeq 2500,male,ALS
+CGND_13066,Male,Limb,"Limb - Lower Limb, Left Leg",63,66,Spinal_Cord_Cervical,6.5,HiSeq 2500,male,ALS
+CGND_13066,Male,Limb,"Limb - Lower Limb, Left Leg",63,66,Spinal_Cord_Lumbar,6.6,HiSeq 2500,male,ALS
+CGND_12795,Male,Limb,"Limb - Lower Limb, Left Leg",44,50,Cerebellum,5.5,HiSeq 2500,male,ALS
+CGND_13066,Male,Limb,"Limb - Lower Limb, Left Leg",44,50,Cerebellum,7.4,HiSeq 2500,male,ALS
+CGND_13066,Male,Limb,"Limb - Lower Limb, Left Leg",44,50,Cortex_Frontal,7.2,HiSeq 2500,male,ALS
+CGND_13066,Male,Limb,"Limb - Lower Limb, Left Leg",44,50,Cortex_Occipital,7.8,HiSeq 2500,male,ALS
+CGND_13066,Male,Limb,"Limb - Lower Limb, Left Leg",44,50,Spinal_Cord_Thoracic,6.5,HiSeq 2500,male,ALS
+CGND_13066,Male,Limb,"Limb - Lower Limb, Left Leg",44,50,Cortex_Motor_Medial,8.6,HiSeq 2500,male,ALS
+CGND_13066,Male,Limb,"Limb - Lower Limb, Left Leg",44,50,Cortex_Motor_Lateral,7.2,HiSeq 2500,male,ALS
+CGND_13066,Male,Limb,"Limb - Lower Limb, Left Leg",44,50,Spinal_Cord_Cervical,7.2,HiSeq 2500,male,ALS
+CGND_13066,Male,Limb,"Limb - Lower Limb, Left Leg",44,50,Spinal_Cord_Lumbar,7.1,HiSeq 2500,male,ALS
+CGND_14039,Male,Limb,"Limb - Lower Limb, Left Leg",44,50,Choroid,8.6,NovaSeq,male,ALS
+CGND_12795,Male,Bulbar and Limb,"Bulbar - Swallowing; Limb - Lower Limb, Bilateral",67,74,Cerebellum,5.2,HiSeq 2500,male,ALS/FTD + C9 repeat expansion
+CGND_13066,Male,Bulbar and Limb,"Bulbar - Swallowing; Limb - Lower Limb, Bilateral",67,74,Cerebellum,5.5,HiSeq 2500,male,ALS/FTD + C9 repeat expansion
+CGND_13132,Male,Bulbar and Limb,"Bulbar - Swallowing; Limb - Lower Limb, Bilateral",67,74,Cortex_Frontal,5.8,HiSeq 2500,male,ALS/FTD + C9 repeat expansion
+CGND_12795,Female,Bulbar,Bulbar - Speech and Swallowing,65,69,Cerebellum,7,HiSeq 2500,female,ALS
+CGND_13066,Female,Bulbar,Bulbar - Speech and Swallowing,65,69,Cerebellum,7.2,HiSeq 2500,female,ALS
+CGND_13066,Female,Bulbar,Bulbar - Speech and Swallowing,65,69,Cortex_Frontal,6.3,HiSeq 2500,female,ALS
+CGND_13066,Female,Bulbar,Bulbar - Speech and Swallowing,65,69,Cortex_Occipital,3.9,HiSeq 2500,female,ALS
+CGND_13096,Female,Bulbar,Bulbar - Speech and Swallowing,65,69,Cortex_Motor_Medial,7.3,HiSeq 2500,female,ALS
+CGND_13096,Female,Bulbar,Bulbar - Speech and Swallowing,65,69,Cortex_Motor_Lateral,6.3,HiSeq 2500,female,ALS
+CGND_13096,Female,Bulbar,Bulbar - Speech and Swallowing,65,69,Spinal_Cord_Cervical,7.1,HiSeq 2500,female,ALS
+CGND_13096,Female,Bulbar,Bulbar - Speech and Swallowing,65,69,Spinal_Cord_Lumbar,5.6,HiSeq 2500,female,ALS
+CGND_13569,Female,Bulbar,Bulbar - Speech and Swallowing,65,69,Spinal_Cord_Thoracic,6.6,HiSeq 2500,female,ALS
+CGND_12795,Male,Limb,"Limb - Lower Limb, Bilateral Legs",69,72,Liver,3.3,HiSeq 2500,male,ALS + C9 repeat expansion
+CGND_13066,Male,Limb,"Limb - Lower Limb, Bilateral Legs",69,72,Cerebellum,5.5,HiSeq 2500,male,ALS + C9 repeat expansion
+CGND_13066,Male,Limb,"Limb - Lower Limb, Bilateral Legs",69,72,Cortex_Frontal,6.1,HiSeq 2500,male,ALS + C9 repeat expansion
+CGND_13066,Male,Limb,"Limb - Lower Limb, Bilateral Legs",69,72,Cortex_Occipital,5.3,HiSeq 2500,male,ALS + C9 repeat expansion
+CGND_13096,Male,Limb,"Limb - Lower Limb, Bilateral Legs",69,72,Spinal_Cord_Thoracic,7.5,HiSeq 2500,male,ALS + C9 repeat expansion
+CGND_13867,Male,Limb,"Limb - Lower Limb, Bilateral Legs",69,72,Cortex_Motor_Medial,4.7,NovaSeq,male,ALS + C9 repeat expansion
+CGND_13867,Male,Limb,"Limb - Lower Limb, Bilateral Legs",69,72,Cortex_Motor_Lateral,5.7,NovaSeq,male,ALS + C9 repeat expansion
+CGND_13867,Male,Limb,"Limb - Lower Limb, Bilateral Legs",69,72,Spinal_Cord_Cervical,6.2,NovaSeq,male,ALS + C9 repeat expansion
+CGND_13867,Male,Limb,"Limb - Lower Limb, Bilateral Legs",69,72,Spinal_Cord_Lumbar,5.5,NovaSeq,male,ALS + C9 repeat expansion
+CGND_12795,Female,Limb,"Limb - Lower Limb, Bilateral Legs",64,68,Cortex_Motor_Unspecified,4.5,HiSeq 2500,female,ALS
+CGND_13569,Female,Limb,"Limb - Lower Limb, Bilateral Legs",64,68,Spinal_Cord_Cervical,6.3,HiSeq 2500,female,ALS
+CGND_13569,Female,Limb,"Limb - Lower Limb, Bilateral Legs",64,68,Spinal_Cord_Lumbar,6.1,HiSeq 2500,female,ALS
+CGND_12795,Male,Limb,"Limb - Upper Limb, Bilateral",75,78,Cerebellum,3,HiSeq 2500,male,ALS + CTE + ATXN2 Intermediate repeat length
+CGND_13132,Male,Limb,"Limb - Upper Limb, Bilateral",75,78,Cortex_Frontal,5.2,HiSeq 2500,male,ALS + CTE + ATXN2 Intermediate repeat length
+CGND_13132,Male,Limb,"Limb - Upper Limb, Bilateral",75,78,Cortex_Occipital,4.8,HiSeq 2500,male,ALS + CTE + ATXN2 Intermediate repeat length
+CGND_13132,Male,Limb,"Limb - Upper Limb, Bilateral",75,78,Spinal_Cord_Thoracic,6.4,HiSeq 2500,male,ALS + CTE + ATXN2 Intermediate repeat length
+CGND_13569,Male,Limb,"Limb - Upper Limb, Bilateral",75,78,Cortex_Motor_Medial,6.7,HiSeq 2500,male,ALS + CTE + ATXN2 Intermediate repeat length
+CGND_13569,Male,Limb,"Limb - Upper Limb, Bilateral",75,78,Cortex_Motor_Lateral,6,HiSeq 2500,male,ALS + CTE + ATXN2 Intermediate repeat length
+CGND_13569,Male,Limb,"Limb - Upper Limb, Bilateral",75,78,Spinal_Cord_Cervical,8,HiSeq 2500,male,ALS + CTE + ATXN2 Intermediate repeat length
+CGND_12795,Female,Not Applicable,Not Applicable,Not Applicable,52,Cerebellum,6.5,HiSeq 2500,female,ALS
+CGND_13096,Female,Not Applicable,Not Applicable,Not Applicable,52,Cortex_Frontal,7.6,HiSeq 2500,female,ALS
+CGND_13096,Female,Not Applicable,Not Applicable,Not Applicable,52,Cortex_Occipital,7.2,HiSeq 2500,female,ALS
+CGND_13569,Female,Not Applicable,Not Applicable,Not Applicable,52,Cortex_Motor_Medial,6.9,HiSeq 2500,female,ALS
+CGND_13569,Female,Not Applicable,Not Applicable,Not Applicable,52,Cortex_Motor_Lateral,6.9,HiSeq 2500,female,ALS
+CGND_12795,Female,Not Applicable,Not Applicable,Not Applicable,70,Cerebellum,6.4,HiSeq 2500,female,ALS
+CGND_13096,Female,Not Applicable,Not Applicable,Not Applicable,70,Cortex_Frontal,5.7,HiSeq 2500,female,ALS
+CGND_13132,Female,Not Applicable,Not Applicable,Not Applicable,70,Cortex_Occipital,6.1,HiSeq 2500,female,ALS
+CGND_13132,Female,Not Applicable,Not Applicable,Not Applicable,70,Spinal_Cord_Thoracic,6.1,HiSeq 2500,female,ALS
+CGND_13569,Female,Not Applicable,Not Applicable,Not Applicable,70,Cortex_Motor_Medial,7.3,HiSeq 2500,female,ALS
+CGND_13569,Female,Not Applicable,Not Applicable,Not Applicable,70,Cortex_Motor_Lateral,7.5,HiSeq 2500,female,ALS
+CGND_12795,Male,Not Applicable,Not Applicable,Not Applicable,22,Liver,6.2,HiSeq 2500,male,ALS
+CGND_13132,Male,Not Applicable,Not Applicable,Not Applicable,22,Cortex_Frontal,7.5,HiSeq 2500,male,ALS
+CGND_13132,Male,Not Applicable,Not Applicable,Not Applicable,22,Cortex_Occipital,7,HiSeq 2500,male,ALS
+CGND_13132,Male,Not Applicable,Not Applicable,Not Applicable,22,Spinal_Cord_Thoracic,6.2,HiSeq 2500,male,ALS
+CGND_13569,Male,Not Applicable,Not Applicable,Not Applicable,22,Cerebellum,7.1,HiSeq 2500,male,ALS
+CGND_13569,Male,Not Applicable,Not Applicable,Not Applicable,22,Cortex_Motor_Medial,7.4,HiSeq 2500,male,ALS
+CGND_13569,Male,Not Applicable,Not Applicable,Not Applicable,22,Cortex_Motor_Lateral,7.8,HiSeq 2500,male,ALS
+CGND_13569,Male,Not Applicable,Not Applicable,Not Applicable,22,Spinal_Cord_Cervical,6.7,HiSeq 2500,male,ALS
+CGND_12795,Female,Limb,"Limb - Lower Limb, Left Leg",50,54,Cerebellum,5.8,HiSeq 2500,female,ALS
+CGND_13132,Female,Limb,"Limb - Lower Limb, Left Leg",50,54,Cortex_Frontal,6.2,HiSeq 2500,female,ALS
+CGND_13132,Female,Limb,"Limb - Lower Limb, Left Leg",50,54,Spinal_Cord_Thoracic,6.4,HiSeq 2500,female,ALS
+CGND_13569,Female,Limb,"Limb - Lower Limb, Left Leg",50,54,Cortex_Motor_Medial,5.5,HiSeq 2500,female,ALS
+CGND_13569,Female,Limb,"Limb - Lower Limb, Left Leg",50,54,Cortex_Motor_Lateral,4.8,HiSeq 2500,female,ALS
+CGND_13867,Female,Limb,"Limb - Lower Limb, Left Leg",50,54,Spinal_Cord_Cervical,6.4,NovaSeq,female,ALS
+CGND_13867,Female,Limb,"Limb - Lower Limb, Left Leg",50,54,Spinal_Cord_Lumbar,5.7,NovaSeq,female,ALS
+CGND_12796,Female,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Cell_Line_Motor_Neuron,9.7,HiSeq 2500,female,Non-Neurologic Control + ATXN2 Intermediate repeat length
+CGND_12796,Female,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Cell_Line_iPS,7.3,HiSeq 2500,female,Non-Neurologic Control + ATXN2 Intermediate repeat length
+CGND_12796,Male,Not Applicable,Not Applicable,Not Applicable,Unknown,Cell_Line_iPS,7,HiSeq 2500,,Non-Neurologic Control
+CGND_12796,Male,Not Applicable,Not Applicable,Not Applicable,Unknown,Cell_Line_Motor_Neuron,9.9,HiSeq 2500,,Non-Neurologic Control
+CGND_12796,Female,Not Applicable,Not Applicable,Not Applicable,Unknown,Cell_Line_iPS,9.9,HiSeq 2500,,Non-Neurologic Control
+CGND_12796,Female,Not Applicable,Not Applicable,Not Applicable,Unknown,Cell_Line_Motor_Neuron,8.4,HiSeq 2500,,Non-Neurologic Control
+CGND_12796,Female,Limb,"Limb - Lower Limb, Right",43,45,Cell_Line_iPS,8.6,HiSeq 2500,female,ALS
+CGND_12796,Female,Limb,"Limb - Lower Limb, Right",43,45,Cell_Line_Motor_Neuron,8.3,HiSeq 2500,female,ALS
+CGND_12808,Male,Limb,"Limb - Lower Limb, Left Leg",79,80,Cerebellum,6.7,HiSeq 2500,male,ALS
+CGND_14051,Male,Limb,"Limb - Lower Limb, Left Leg",79,80,Cortex_Frontal,5.4,NovaSeq,male,ALS
+CGND_14077,Male,Limb,"Limb - Lower Limb, Left Leg",79,80,Cortex_Motor_Medial,6.5,NovaSeq,male,ALS
+CGND_14077,Male,Limb,"Limb - Lower Limb, Left Leg",79,80,Cortex_Motor_Lateral,6.2,NovaSeq,male,ALS
+CGND_14077,Male,Limb,"Limb - Lower Limb, Left Leg",79,80,Spinal_Cord_Cervical,7.2,NovaSeq,male,ALS
+CGND_14077,Male,Limb,"Limb - Lower Limb, Left Leg",79,80,Spinal_Cord_Lumbar,7.9,NovaSeq,male,ALS
+CGND_12808,Female,Bulbar,Bulbar,64,68,Cerebellum,7.5,HiSeq 2500,female,ALS/FTD + C9 repeat expansion
+CGND_14051,Female,Bulbar,Bulbar,64,68,Cortex_Motor_Lateral,6.4,NovaSeq,female,ALS/FTD + C9 repeat expansion
+CGND_14051,Female,Bulbar,Bulbar,64,68,Cortex_Frontal,6.4,NovaSeq,female,ALS/FTD + C9 repeat expansion
+CGND_14077,Female,Bulbar,Bulbar,64,68,Cortex_Motor_Medial,6.8,NovaSeq,female,ALS/FTD + C9 repeat expansion
+CGND_14077,Female,Bulbar,Bulbar,64,68,Spinal_Cord_Cervical,7.6,NovaSeq,female,ALS/FTD + C9 repeat expansion
+CGND_14077,Female,Bulbar,Bulbar,64,68,Spinal_Cord_Lumbar,7.1,NovaSeq,female,ALS/FTD + C9 repeat expansion
+CGND_14077,Female,Bulbar,Bulbar,64,68,Cerebellum,8.1,NovaSeq,female,ALS/FTD + C9 repeat expansion
+CGND_12808,Male,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",68,70,Cerebellum,7.4,HiSeq 2500,male,ALS/FTD + C9 repeat expansion
+CGND_14051,Male,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",68,70,Cerebellum,7.5,NovaSeq,male,ALS/FTD + C9 repeat expansion
+CGND_12808,Male,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",72,73,Cerebellum,6.8,HiSeq 2500,male,ALS/FTD + C9 repeat expansion
+CGND_14077,Male,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",72,73,Spinal_Cord_Lumbar,7.5,NovaSeq,male,ALS/FTD + C9 repeat expansion
+CGND_14077,Male,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",72,73,Cortex_Frontal,4.7,NovaSeq,male,ALS/FTD + C9 repeat expansion
+CGND_14117,Male,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",72,73,Cortex_Motor_Lateral,5.3,,male,ALS/FTD + C9 repeat expansion
+CGND_14117,Male,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",72,73,Spinal_Cord_Cervical,6.9,,male,ALS/FTD + C9 repeat expansion
+CGND_12808,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",57,58,Cerebellum,7.1,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_14077,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",57,58,Cortex_Motor_Medial,7,NovaSeq,female,ALS + C9 repeat expansion
+CGND_14077,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",57,58,Cortex_Motor_Lateral,6.7,NovaSeq,female,ALS + C9 repeat expansion
+CGND_14077,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",57,58,Spinal_Cord_Cervical,7.4,NovaSeq,female,ALS + C9 repeat expansion
+CGND_14077,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",57,58,Cortex_Frontal,6.5,NovaSeq,female,ALS + C9 repeat expansion
+CGND_14117,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",57,58,Spinal_Cord_Lumbar,7.2,,female,ALS + C9 repeat expansion
+CGND_12808,Female,Not Applicable,Not Applicable,Not Applicable,90 or Older,Cerebellum,6.5,HiSeq 2500,female,Pre-fALS
+CGND_13028,Female,Not Applicable,Not Applicable,Not Applicable,90 or Older,Cortex_Frontal,5.9,HiSeq 2500,female,Pre-fALS
+CGND_13028,Female,Not Applicable,Not Applicable,Not Applicable,90 or Older,Cortex_Motor_Medial,5.5,HiSeq 2500,female,Pre-fALS
+CGND_13028,Female,Not Applicable,Not Applicable,Not Applicable,90 or Older,Spinal_Cord_Cervical,7.4,HiSeq 2500,female,Pre-fALS
+CGND_12808,Male,Limb,"Limb - Upper Limb, Right Hand/Fingers",79,80,Cerebellum,5.9,HiSeq 2500,male,ALS
+CGND_13028,Male,Limb,"Limb - Upper Limb, Right Hand/Fingers",79,80,Cortex_Motor_Medial,5.6,HiSeq 2500,male,ALS
+CGND_13028,Male,Limb,"Limb - Upper Limb, Right Hand/Fingers",79,80,Spinal_Cord_Cervical,7,HiSeq 2500,male,ALS
+CGND_13028,Male,Limb,"Limb - Upper Limb, Right Hand/Fingers",79,80,Spinal_Cord_Lumbar,5.2,HiSeq 2500,male,ALS
+CGND_13096,Male,Limb,"Limb - Upper Limb, Right Hand/Fingers",79,80,Cortex_Frontal,8.3,HiSeq 2500,male,ALS
+CGND_12808,Male,Limb,"Limb - Lower Limb, Bilateral Leg",70,74,Cerebellum,6.8,HiSeq 2500,male,ALS
+CGND_13028,Male,Limb,"Limb - Lower Limb, Bilateral Leg",70,74,Cortex_Motor_Medial,6.2,HiSeq 2500,male,ALS
+CGND_13028,Male,Limb,"Limb - Lower Limb, Bilateral Leg",70,74,Spinal_Cord_Cervical,6,HiSeq 2500,male,ALS
+CGND_13028,Male,Limb,"Limb - Lower Limb, Bilateral Leg",70,74,Cortex_Motor_Lateral,5.8,HiSeq 2500,male,ALS
+CGND_13043,Male,Limb,"Limb - Lower Limb, Bilateral Leg",70,74,Cortex_Frontal,5.9,HiSeq 2500,male,ALS
+CGND_13096,Male,Limb,"Limb - Lower Limb, Bilateral Leg",70,74,Spinal_Cord_Lumbar,7.2,HiSeq 2500,male,ALS
+CGND_12808,Male,Limb,"Limb - Lower Limb, Bilateral Leg",59,65,Cerebellum,6.1,HiSeq 2500,male,ALS
+CGND_13028,Male,Limb,"Limb - Lower Limb, Bilateral Leg",59,65,Spinal_Cord_Lumbar,6.6,HiSeq 2500,male,ALS
+CGND_13028,Male,Limb,"Limb - Lower Limb, Bilateral Leg",59,65,Cortex_Motor_Lateral,5,HiSeq 2500,male,ALS
+CGND_13043,Male,Limb,"Limb - Lower Limb, Bilateral Leg",59,65,Spinal_Cord_Cervical,6.1,HiSeq 2500,male,ALS
+CGND_13096,Male,Limb,"Limb - Lower Limb, Bilateral Leg",59,65,Cortex_Frontal,5.9,HiSeq 2500,male,ALS
+CGND_13096,Male,Limb,"Limb - Lower Limb, Bilateral Leg",59,65,Cortex_Motor_Medial,4.1,HiSeq 2500,male,ALS
+CGND_12808,Female,Limb,Limb - Lower Limb,72,76,Cerebellum,6.5,HiSeq 2500,female,ALS
+CGND_13043,Female,Limb,Limb - Lower Limb,72,76,Cortex_Frontal,7.7,HiSeq 2500,female,ALS
+CGND_13043,Female,Limb,Limb - Lower Limb,72,76,Cortex_Motor_Medial,5.8,HiSeq 2500,female,ALS
+CGND_13043,Female,Limb,Limb - Lower Limb,72,76,Spinal_Cord_Cervical,6,HiSeq 2500,female,ALS
+CGND_13867,Female,Limb,Limb - Lower Limb,72,76,Spinal_Cord_Lumbar,5.9,NovaSeq,female,ALS
+CGND_12808,Male,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",58,59,Cerebellum,7.2,HiSeq 2500,male,ALS + C9 repeat expansion
+CGND_13043,Male,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",58,59,Cortex_Frontal,8,HiSeq 2500,male,ALS + C9 repeat expansion
+CGND_13043,Male,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",58,59,Spinal_Cord_Cervical,6.4,HiSeq 2500,male,ALS + C9 repeat expansion
+CGND_13043,Male,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",58,59,Spinal_Cord_Lumbar,6.3,HiSeq 2500,male,ALS + C9 repeat expansion
+CGND_13043,Male,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",58,59,Cortex_Motor_Lateral,5.8,HiSeq 2500,male,ALS + C9 repeat expansion
+CGND_13867,Male,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",58,59,Cortex_Motor_Medial,5.4,NovaSeq,male,ALS + C9 repeat expansion
+CGND_12808,Female,Bulbar,Bulbar - Speech,56,67,Cerebellum,6.8,HiSeq 2500,female,ALS
+CGND_13043,Female,Bulbar,Bulbar - Speech,56,67,Cortex_Frontal,6.7,HiSeq 2500,female,ALS
+CGND_13043,Female,Bulbar,Bulbar - Speech,56,67,Cortex_Motor_Medial,5.7,HiSeq 2500,female,ALS
+CGND_13043,Female,Bulbar,Bulbar - Speech,56,67,Spinal_Cord_Cervical,7.3,HiSeq 2500,female,ALS
+CGND_13043,Female,Bulbar,Bulbar - Speech,56,67,Spinal_Cord_Lumbar,7.3,HiSeq 2500,female,ALS
+CGND_12808,Female,Limb,"Limb - Lower Limb, Right Leg",65,65,Cerebellum,6.4,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_13028,Female,Limb,"Limb - Lower Limb, Right Leg",65,65,Cortex_Motor_Unspecified,6.7,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_13043,Female,Limb,"Limb - Lower Limb, Right Leg",65,65,Spinal_Cord_Cervical,8.6,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_13132,Female,Limb,"Limb - Lower Limb, Right Leg",65,65,Cortex_Frontal,5,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_12808,Female,Limb,"Limb - Upper Limb, Right Hand/Fingers",58,65,Cerebellum,4.8,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_12966,Female,Limb,"Limb - Upper Limb, Right Hand/Fingers",58,65,Spinal_Cord_Lumbar,8,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_13028,Female,Limb,"Limb - Upper Limb, Right Hand/Fingers",58,65,Cortex_Motor_Medial,4.6,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_13028,Female,Limb,"Limb - Upper Limb, Right Hand/Fingers",58,65,Spinal_Cord_Cervical,6.4,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_13043,Female,Limb,"Limb - Upper Limb, Right Hand/Fingers",58,65,Cortex_Frontal,6.4,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_12808,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",59,60,Cerebellum,6.6,HiSeq 2500,male,ALS/FTD + C9 repeat expansion
+CGND_13028,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",59,60,Spinal_Cord_Lumbar,5.3,HiSeq 2500,male,ALS/FTD + C9 repeat expansion
+CGND_13043,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",59,60,Spinal_Cord_Cervical,7.6,HiSeq 2500,male,ALS/FTD + C9 repeat expansion
+CGND_13043,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",59,60,Cortex_Motor_Lateral,6.4,HiSeq 2500,male,ALS/FTD + C9 repeat expansion
+CGND_13096,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",59,60,Cortex_Frontal,6.9,HiSeq 2500,male,ALS/FTD + C9 repeat expansion
+CGND_12856,Female,Bulbar,Bulbar,65,67,Cortex_Frontal,6.4,HiSeq 2500,female,ALS/FTD
+CGND_12856,Female,Bulbar,Bulbar,65,67,Cortex_Motor_Medial,6.1,HiSeq 2500,female,ALS/FTD
+CGND_12856,Female,Bulbar,Bulbar,65,67,Cerebellum,6.8,HiSeq 2500,female,ALS/FTD
+CGND_12856,Female,Bulbar,Bulbar,65,67,Cortex_Motor_Lateral,7.8,HiSeq 2500,female,ALS/FTD
+CGND_13234,Female,Bulbar,Bulbar,65,67,Spinal_Cord_Thoracic,4.1,HiSeq 2500,female,ALS/FTD
+CGND_12856,Male,Axial and Limb,"Axial - Trunk, Respiratory; Limb - Lower Limb, Leg",73,74,Cortex_Frontal,5.8,HiSeq 2500,male,ALS
+CGND_12856,Male,Axial and Limb,"Axial - Trunk, Respiratory; Limb - Lower Limb, Leg",73,74,Spinal_Cord_Lumbar,4.7,HiSeq 2500,male,ALS
+CGND_12856,Male,Axial and Limb,"Axial - Trunk, Respiratory; Limb - Lower Limb, Leg",73,74,Spinal_Cord_Cervical,5.7,HiSeq 2500,male,ALS
+CGND_12856,Male,Axial and Limb,"Axial - Trunk, Respiratory; Limb - Lower Limb, Leg",73,74,Cortex_Motor_Medial,4.1,HiSeq 2500,male,ALS
+CGND_12856,Male,Axial and Limb,"Axial - Trunk, Respiratory; Limb - Lower Limb, Leg",73,74,Cerebellum,5.2,HiSeq 2500,male,ALS
+CGND_12856,Male,Axial and Limb,"Axial - Trunk, Respiratory; Limb - Lower Limb, Leg",73,74,Cortex_Motor_Lateral,5.1,HiSeq 2500,male,ALS
+CGND_13867,Male,Axial and Limb,"Axial - Trunk, Respiratory; Limb - Lower Limb, Leg",73,74,Spinal_Cord_Thoracic,5.9,NovaSeq,male,ALS
+CGND_13867,Male,Axial and Limb,"Axial - Trunk, Respiratory; Limb - Lower Limb, Leg",73,74,Cortex_Occipital,3.2,NovaSeq,male,ALS
+CGND_12856,Male,Limb,"Limb - Lower Limb, Bilateral Leg",58,69,Cortex_Frontal,5.4,HiSeq 2500,male,ALS + ATXN2 Intermediate repeat length
+CGND_12856,Male,Limb,"Limb - Lower Limb, Bilateral Leg",58,69,Spinal_Cord_Lumbar,4.4,HiSeq 2500,male,ALS + ATXN2 Intermediate repeat length
+CGND_12856,Male,Limb,"Limb - Lower Limb, Bilateral Leg",58,69,Spinal_Cord_Cervical,5.1,HiSeq 2500,male,ALS + ATXN2 Intermediate repeat length
+CGND_12856,Male,Limb,"Limb - Lower Limb, Bilateral Leg",58,69,Cortex_Motor_Medial,3.1,HiSeq 2500,male,ALS + ATXN2 Intermediate repeat length
+CGND_12856,Male,Limb,"Limb - Lower Limb, Right Leg, Ankle/Foot/Toes",48,49,Cortex_Frontal,7.3,HiSeq 2500,male,ALS
+CGND_12856,Male,Limb,"Limb - Lower Limb, Right Leg, Ankle/Foot/Toes",48,49,Spinal_Cord_Lumbar,6.2,HiSeq 2500,male,ALS
+CGND_12856,Male,Limb,"Limb - Lower Limb, Right Leg, Ankle/Foot/Toes",48,49,Spinal_Cord_Cervical,7,HiSeq 2500,male,ALS
+CGND_12856,Male,Limb,"Limb - Lower Limb, Right Leg, Ankle/Foot/Toes",48,49,Cerebellum,8.1,HiSeq 2500,male,ALS
+CGND_12856,Male,Limb,"Limb - Lower Limb, Right Leg, Ankle/Foot/Toes",48,49,Cortex_Motor_Lateral,5.4,HiSeq 2500,male,ALS
+CGND_12856,Male,Limb,"Limb - Upper Limb, Left",55,56,Cortex_Sensory,2.2,HiSeq 2500,male,ALS
+CGND_12856,Male,Limb,"Limb - Upper Limb, Right Hand",28,44,Cerebellum,5.8,HiSeq 2500,male,ALS
+CGND_12856,Male,Limb,"Limb - Lower Limb, Bilateral",63,65,Cortex_Frontal,4.2,HiSeq 2500,male,ALS
+CGND_12856,Male,Limb,"Limb - Lower Limb, Left Leg",53,55,Cortex_Frontal,3,HiSeq 2500,male,ALS
+CGND_12856,Male,Bulbar,Bulbar,53,56,Cortex_Frontal,2.3,HiSeq 2500,male,ALS + C9 repeat expansion
+CGND_12856,Male,Bulbar,Bulbar,79,81,Liver,7,HiSeq 2500,male,ALS
+CGND_12856,Male,Limb,"Limb - Upper Limb, Bilateral",63,64,Cortex_Frontal,5.1,HiSeq 2500,male,ALS/FTD
+CGND_12856,Female,Not Applicable,Not Applicable,Not Applicable,72,Cerebellum,5.3,HiSeq 2500,female,FTD + C9 repeat expansion
+CGND_12856,Female,Not Applicable,Not Applicable,Not Applicable,72,Cortex_Motor_Medial,6.3,HiSeq 2500,female,FTD + C9 repeat expansion
+CGND_12856,Female,Not Applicable,Not Applicable,Not Applicable,72,Cortex_Motor_Lateral,7.1,HiSeq 2500,female,FTD + C9 repeat expansion
+CGND_12856,Female,Not Applicable,Not Applicable,Not Applicable,72,Spinal_Cord_Cervical,7.3,HiSeq 2500,female,FTD + C9 repeat expansion
+CGND_12856,Female,Not Applicable,Not Applicable,Not Applicable,72,Spinal_Cord_Lumbar,7.5,HiSeq 2500,female,FTD + C9 repeat expansion
+CGND_12856,Female,Not Applicable,Not Applicable,Not Applicable,72,Cortex_Frontal,6,HiSeq 2500,female,FTD + C9 repeat expansion
+CGND_12856,Female,Not Applicable,Not Applicable,Not Applicable,72,Cortex_Occipital,6.7,HiSeq 2500,female,FTD + C9 repeat expansion
+CGND_12856,Female,Not Applicable,Not Applicable,Not Applicable,72,Spinal_Cord_Thoracic,7.6,HiSeq 2500,female,FTD + C9 repeat expansion
+CGND_12856,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",74,76,Cerebellum,8,HiSeq 2500,female,ALS
+CGND_12856,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",74,76,Cortex_Motor_Medial,7.9,HiSeq 2500,female,ALS
+CGND_12856,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",74,76,Cortex_Motor_Lateral,7.5,HiSeq 2500,female,ALS
+CGND_12856,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",74,76,Spinal_Cord_Cervical,8.3,HiSeq 2500,female,ALS
+CGND_12893,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",74,76,Spinal_Cord_Lumbar,7.7,HiSeq 2500,female,ALS
+CGND_12893,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",74,76,Cortex_Frontal,7.6,HiSeq 2500,female,ALS
+CGND_12893,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",74,76,Cortex_Occipital,6.3,HiSeq 2500,female,ALS
+CGND_12893,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",74,76,Spinal_Cord_Thoracic,7.2,HiSeq 2500,female,ALS
+CGND_12893,Female,Limb,"Limb - Upper Limb, Left Hand/Fingers",65,69,Cerebellum,8.2,HiSeq 2500,female,ALS
+CGND_12893,Female,Limb,"Limb - Upper Limb, Left Hand/Fingers",65,69,Cortex_Motor_Medial,6.9,HiSeq 2500,female,ALS
+CGND_12893,Female,Limb,"Limb - Upper Limb, Left Hand/Fingers",65,69,Cortex_Motor_Lateral,6.7,HiSeq 2500,female,ALS
+CGND_12893,Female,Limb,"Limb - Upper Limb, Left Hand/Fingers",65,69,Spinal_Cord_Cervical,7.6,HiSeq 2500,female,ALS
+CGND_12893,Female,Limb,"Limb - Upper Limb, Left Hand/Fingers",65,69,Spinal_Cord_Lumbar,7.5,HiSeq 2500,female,ALS
+CGND_12893,Female,Limb,"Limb - Upper Limb, Left Hand/Fingers",65,69,Cortex_Frontal,6.6,HiSeq 2500,female,ALS
+CGND_12893,Female,Limb,"Limb - Upper Limb, Left Hand/Fingers",65,69,Cortex_Occipital,6.8,HiSeq 2500,female,ALS
+CGND_12893,Female,Limb,"Limb - Upper Limb, Left Hand/Fingers",65,69,Spinal_Cord_Thoracic,7.4,HiSeq 2500,female,ALS
+CGND_12893,Male,Limb,Limb,63,67,Cerebellum,5.3,HiSeq 2500,male,ALS + C9 repeat expansion
+CGND_12893,Male,Limb,Limb,63,67,Cortex_Motor_Medial,3.2,HiSeq 2500,male,ALS + C9 repeat expansion
+CGND_12893,Male,Limb,Limb,63,67,Cortex_Motor_Lateral,5.6,HiSeq 2500,male,ALS + C9 repeat expansion
+CGND_12893,Male,Limb,Limb,63,67,Cortex_Frontal,3.3,HiSeq 2500,male,ALS + C9 repeat expansion
+CGND_12893,Male,Limb,Limb,63,67,Cortex_Occipital,2.9,HiSeq 2500,male,ALS + C9 repeat expansion
+CGND_12893,Male,Limb,Limb,63,67,Spinal_Cord_Thoracic,4.2,HiSeq 2500,male,ALS + C9 repeat expansion
+CGND_13569,Male,Limb,Limb,63,67,Spinal_Cord_Cervical,4.1,HiSeq 2500,male,ALS + C9 repeat expansion
+CGND_12893,Female,Axial,Axial - Neck,63,66,Cerebellum,3.3,HiSeq 2500,female,ALS
+CGND_12893,Female,Axial,Axial - Neck,63,66,Cortex_Motor_Lateral,3.7,HiSeq 2500,female,ALS
+CGND_12893,Female,Axial,Axial - Neck,63,66,Cortex_Frontal,4.9,HiSeq 2500,female,ALS
+CGND_12893,Female,Axial,Axial - Neck,63,66,Cortex_Occipital,2.9,HiSeq 2500,female,ALS
+CGND_12893,Female,Bulbar,Bulbar - Speech and Swallowing,79,81,Cerebellum,8,HiSeq 2500,female,ALS
+CGND_12893,Female,Bulbar,Bulbar - Speech and Swallowing,79,81,Cortex_Motor_Medial,6.7,HiSeq 2500,female,ALS
+CGND_12893,Female,Bulbar,Bulbar - Speech and Swallowing,79,81,Cortex_Motor_Lateral,6,HiSeq 2500,female,ALS
+CGND_12893,Female,Bulbar,Bulbar - Speech and Swallowing,79,81,Spinal_Cord_Cervical,5.9,HiSeq 2500,female,ALS
+CGND_12893,Female,Bulbar,Bulbar - Speech and Swallowing,79,81,Cortex_Frontal,5.6,HiSeq 2500,female,ALS
+CGND_12893,Female,Bulbar,Bulbar - Speech and Swallowing,79,81,Spinal_Cord_Thoracic,6.1,HiSeq 2500,female,ALS
+CGND_12922,Female,Bulbar,Bulbar - Speech and Swallowing,79,81,Cortex_Occipital,5.8,HiSeq 2500,female,ALS
+CGND_13028,Female,Bulbar,Bulbar - Speech and Swallowing,79,81,Spinal_Cord_Lumbar,4.9,HiSeq 2500,female,ALS
+CGND_12893,Male,Limb,Limb - Lower Limb,79,85,Cerebellum,6.2,HiSeq 2500,male,ALS
+CGND_12893,Male,Limb,Limb - Lower Limb,79,85,Cortex_Motor_Medial,4.5,HiSeq 2500,male,ALS
+CGND_12893,Male,Limb,Limb - Lower Limb,79,85,Cortex_Motor_Lateral,5.4,HiSeq 2500,male,ALS
+CGND_12893,Male,Limb,Limb - Lower Limb,79,85,Spinal_Cord_Cervical,5.8,HiSeq 2500,male,ALS
+CGND_12893,Male,Limb,Limb - Lower Limb,79,85,Spinal_Cord_Lumbar,5.8,HiSeq 2500,male,ALS
+CGND_12893,Male,Limb,Limb - Lower Limb,79,85,Cortex_Frontal,4.8,HiSeq 2500,male,ALS
+CGND_12893,Male,Limb,Limb - Lower Limb,79,85,Cortex_Occipital,5.6,HiSeq 2500,male,ALS
+CGND_12893,Male,Limb,Limb - Lower Limb,79,85,Spinal_Cord_Thoracic,7.2,HiSeq 2500,male,ALS
+CGND_12893,Female,Limb,Limb,57,61,Cortex_Motor_Medial,7.9,HiSeq 2500,female,ALS
+CGND_12893,Female,Limb,Limb,57,61,Spinal_Cord_Cervical,8.2,HiSeq 2500,female,ALS
+CGND_12893,Female,Limb,Limb,57,61,Spinal_Cord_Lumbar,7,HiSeq 2500,female,ALS
+CGND_12922,Female,Limb,Limb,57,61,Cerebellum,7.3,HiSeq 2500,female,ALS
+CGND_12922,Female,Limb,Limb,57,61,Cortex_Motor_Lateral,7.6,HiSeq 2500,female,ALS
+CGND_12922,Female,Limb,Limb,57,61,Cortex_Frontal,7.1,HiSeq 2500,female,ALS
+CGND_12922,Female,Limb,Limb,57,61,Cortex_Occipital,8,HiSeq 2500,female,ALS
+CGND_12922,Female,Limb,Limb,57,61,Spinal_Cord_Thoracic,7.2,HiSeq 2500,female,ALS
+CGND_12893,Male,Unknown,Unknown,70,74,Cerebellum,7.8,HiSeq 2500,male,ALS
+CGND_12893,Male,Unknown,Unknown,70,74,Cortex_Motor_Medial,6.5,HiSeq 2500,male,ALS
+CGND_12893,Male,Unknown,Unknown,70,74,Cortex_Motor_Lateral,8.1,HiSeq 2500,male,ALS
+CGND_12893,Male,Unknown,Unknown,70,74,Spinal_Cord_Cervical,7.8,HiSeq 2500,male,ALS
+CGND_12893,Male,Unknown,Unknown,70,74,Spinal_Cord_Lumbar,6.3,HiSeq 2500,male,ALS
+CGND_12893,Male,Unknown,Unknown,70,74,Cortex_Frontal,6.3,HiSeq 2500,male,ALS
+CGND_13234,Male,Unknown,Unknown,70,74,Cortex_Occipital,5.5,HiSeq 2500,male,ALS
+CGND_13234,Male,Unknown,Unknown,70,74,Spinal_Cord_Thoracic,6,HiSeq 2500,male,ALS
+CGND_12893,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",64,67,Cerebellum,6.5,HiSeq 2500,male,ALS
+CGND_12893,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",64,67,Cortex_Motor_Medial,5.7,HiSeq 2500,male,ALS
+CGND_12893,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",64,67,Cortex_Motor_Lateral,6.1,HiSeq 2500,male,ALS
+CGND_12922,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",64,67,Spinal_Cord_Cervical,7.1,HiSeq 2500,male,ALS
+CGND_12922,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",64,67,Spinal_Cord_Lumbar,5.7,HiSeq 2500,male,ALS
+CGND_12922,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",64,67,Cortex_Frontal,4.7,HiSeq 2500,male,ALS
+CGND_13234,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",64,67,Cortex_Occipital,3.2,HiSeq 2500,male,ALS
+CGND_13315,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",64,67,Spinal_Cord_Thoracic,5.7,HiSeq 2500,male,ALS
+CGND_12922,Female,Unknown,Unknown,60,61,Cerebellum,6.3,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_12922,Female,Unknown,Unknown,60,61,Cortex_Motor_Medial,7.1,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_12922,Female,Unknown,Unknown,60,61,Cortex_Motor_Lateral,6.8,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_12922,Female,Unknown,Unknown,60,61,Spinal_Cord_Cervical,6.7,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_12922,Female,Unknown,Unknown,60,61,Spinal_Cord_Lumbar,6.5,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_12922,Female,Unknown,Unknown,60,61,Cortex_Frontal,6.8,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_12922,Female,Unknown,Unknown,60,61,Cortex_Occipital,3.5,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_13028,Female,Unknown,Unknown,60,61,Spinal_Cord_Thoracic,5.8,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_12922,Female,Limb,Limb,61,63,Cerebellum,4.9,HiSeq 2500,female,ALS
+CGND_12922,Female,Limb,Limb,61,63,Cortex_Motor_Medial,6.3,HiSeq 2500,female,ALS
+CGND_12922,Female,Limb,Limb,61,63,Cortex_Motor_Lateral,5.7,HiSeq 2500,female,ALS
+CGND_12922,Female,Limb,Limb,61,63,Spinal_Cord_Cervical,6.5,HiSeq 2500,female,ALS
+CGND_12922,Female,Limb,Limb,61,63,Cortex_Frontal,4.5,HiSeq 2500,female,ALS
+CGND_12922,Female,Limb,Limb,61,63,Cortex_Occipital,4.7,HiSeq 2500,female,ALS
+CGND_13478,Female,Limb,Limb,61,63,Spinal_Cord_Thoracic,5.9,HiSeq 2500,female,ALS
+CGND_12922,Female,Limb,"Limb - Lower Limb, Left Leg",59,68,Cerebellum,8,HiSeq 2500,female,ALS
+CGND_12922,Female,Limb,"Limb - Lower Limb, Left Leg",59,68,Cortex_Motor_Medial,6.4,HiSeq 2500,female,ALS
+CGND_12922,Female,Limb,"Limb - Lower Limb, Left Leg",59,68,Cortex_Motor_Lateral,7.2,HiSeq 2500,female,ALS
+CGND_12922,Female,Limb,"Limb - Lower Limb, Left Leg",59,68,Spinal_Cord_Cervical,3.3,HiSeq 2500,female,ALS
+CGND_12922,Female,Limb,"Limb - Lower Limb, Left Leg",59,68,Spinal_Cord_Lumbar,8.1,HiSeq 2500,female,ALS
+CGND_12966,Female,Limb,"Limb - Lower Limb, Left Leg",59,68,Cortex_Frontal,7.1,HiSeq 2500,female,ALS
+CGND_12966,Female,Limb,"Limb - Lower Limb, Left Leg",59,68,Cortex_Occipital,7,HiSeq 2500,female,ALS
+CGND_12966,Female,Limb,"Limb - Lower Limb, Left Leg",59,68,Spinal_Cord_Thoracic,7.6,HiSeq 2500,female,ALS
+CGND_12922,Male,Unknown,Unknown,Unknown,74,Cerebellum,8.6,HiSeq 2500,male,ALS
+CGND_12922,Male,Unknown,Unknown,Unknown,74,Cortex_Motor_Medial,7,HiSeq 2500,male,ALS
+CGND_12922,Male,Unknown,Unknown,Unknown,74,Cortex_Motor_Lateral,7.6,HiSeq 2500,male,ALS
+CGND_12922,Male,Unknown,Unknown,Unknown,74,Spinal_Cord_Cervical,8.4,HiSeq 2500,male,ALS
+CGND_12922,Male,Unknown,Unknown,Unknown,74,Spinal_Cord_Lumbar,7.5,HiSeq 2500,male,ALS
+CGND_12922,Male,Unknown,Unknown,Unknown,74,Cortex_Frontal,6.4,HiSeq 2500,male,ALS
+CGND_13315,Male,Unknown,Unknown,Unknown,74,Cortex_Occipital,6.8,HiSeq 2500,male,ALS
+CGND_13569,Male,Unknown,Unknown,Unknown,74,Spinal_Cord_Thoracic,7.1,HiSeq 2500,male,ALS
+CGND_13867,Male,Unknown,Unknown,Unknown,74,Spinal_Cord_Thoracic,,NovaSeq,male,ALS
+CGND_12922,Male,Not Applicable,Not Applicable,Not Applicable,81,Cerebellum,7.1,HiSeq 2500,male,Other Neurologic Disease - Alzheimer's disease 
+CGND_12922,Male,Not Applicable,Not Applicable,Not Applicable,81,Cortex_Motor_Medial,5.9,HiSeq 2500,male,Other Neurologic Disease - Alzheimer's disease 
+CGND_12922,Male,Not Applicable,Not Applicable,Not Applicable,81,Cortex_Motor_Lateral,5.9,HiSeq 2500,male,Other Neurologic Disease - Alzheimer's disease 
+CGND_12922,Male,Not Applicable,Not Applicable,Not Applicable,81,Spinal_Cord_Cervical,6.2,HiSeq 2500,male,Other Neurologic Disease - Alzheimer's disease 
+CGND_12922,Male,Not Applicable,Not Applicable,Not Applicable,81,Spinal_Cord_Lumbar,4.7,HiSeq 2500,male,Other Neurologic Disease - Alzheimer's disease 
+CGND_12922,Male,Not Applicable,Not Applicable,Not Applicable,81,Cortex_Frontal,5.4,HiSeq 2500,male,Other Neurologic Disease - Alzheimer's disease 
+CGND_13315,Male,Not Applicable,Not Applicable,Not Applicable,81,Cortex_Occipital,5.3,HiSeq 2500,male,Other Neurologic Disease - Alzheimer's disease 
+CGND_13569,Male,Not Applicable,Not Applicable,Not Applicable,81,Spinal_Cord_Thoracic,5.8,HiSeq 2500,male,Other Neurologic Disease - Alzheimer's disease 
+CGND_12922,Male,Not Applicable,Not Applicable,Not Applicable,45,Cerebellum,7.3,HiSeq 2500,male,Other Neurologic Disease - Multiple System Atrophy 
+CGND_12922,Male,Not Applicable,Not Applicable,Not Applicable,45,Cortex_Motor_Medial,6.7,HiSeq 2500,male,Other Neurologic Disease - Multiple System Atrophy 
+CGND_12922,Male,Not Applicable,Not Applicable,Not Applicable,45,Cortex_Motor_Lateral,6.3,HiSeq 2500,male,Other Neurologic Disease - Multiple System Atrophy 
+CGND_12922,Male,Not Applicable,Not Applicable,Not Applicable,45,Spinal_Cord_Cervical,6.5,HiSeq 2500,male,Other Neurologic Disease - Multiple System Atrophy 
+CGND_12922,Male,Not Applicable,Not Applicable,Not Applicable,45,Spinal_Cord_Lumbar,5.9,HiSeq 2500,male,Other Neurologic Disease - Multiple System Atrophy 
+CGND_12922,Male,Not Applicable,Not Applicable,Not Applicable,45,Cortex_Frontal,6.9,HiSeq 2500,male,Other Neurologic Disease - Multiple System Atrophy 
+CGND_13234,Male,Not Applicable,Not Applicable,Not Applicable,45,Cortex_Occipital,4.9,HiSeq 2500,male,Other Neurologic Disease - Multiple System Atrophy 
+CGND_13234,Male,Not Applicable,Not Applicable,Not Applicable,45,Spinal_Cord_Thoracic,6.3,HiSeq 2500,male,Other Neurologic Disease - Multiple System Atrophy 
+CGND_12922,Male,Not Applicable,Not Applicable,Not Applicable,71,Cerebellum,5.7,HiSeq 2500,male,Other Neurologic Disease - Alzheimer's disease 
+CGND_12922,Male,Not Applicable,Not Applicable,Not Applicable,71,Cortex_Motor_Medial,4.8,HiSeq 2500,male,Other Neurologic Disease - Alzheimer's disease 
+CGND_12922,Male,Not Applicable,Not Applicable,Not Applicable,71,Cortex_Motor_Lateral,5.6,HiSeq 2500,male,Other Neurologic Disease - Alzheimer's disease 
+CGND_12953,Male,Not Applicable,Not Applicable,Not Applicable,71,Spinal_Cord_Lumbar,5.2,HiSeq 2500,male,Other Neurologic Disease - Alzheimer's disease 
+CGND_12966,Male,Not Applicable,Not Applicable,Not Applicable,71,Spinal_Cord_Cervical,6.6,HiSeq 2500,male,Other Neurologic Disease - Alzheimer's disease 
+CGND_12966,Male,Not Applicable,Not Applicable,Not Applicable,71,Cortex_Frontal,5.7,HiSeq 2500,male,Other Neurologic Disease - Alzheimer's disease 
+CGND_13234,Male,Not Applicable,Not Applicable,Not Applicable,71,Cortex_Occipital,5.2,HiSeq 2500,male,Other Neurologic Disease - Alzheimer's disease 
+CGND_13234,Male,Not Applicable,Not Applicable,Not Applicable,71,Spinal_Cord_Thoracic,6.1,HiSeq 2500,male,Other Neurologic Disease - Alzheimer's disease 
+CGND_12953,Male,Not Applicable,Not Applicable,Not Applicable,62,Cerebellum,7.3,HiSeq 2500,male,Other MND - Spinal Bulbar Muscular Atrophy (SBMA)
+CGND_12953,Male,Not Applicable,Not Applicable,Not Applicable,62,Cortex_Motor_Medial,6.1,HiSeq 2500,male,Other MND - Spinal Bulbar Muscular Atrophy (SBMA)
+CGND_12953,Male,Not Applicable,Not Applicable,Not Applicable,62,Cortex_Motor_Lateral,5.9,HiSeq 2500,male,Other MND - Spinal Bulbar Muscular Atrophy (SBMA)
+CGND_12953,Male,Not Applicable,Not Applicable,Not Applicable,62,Spinal_Cord_Cervical,7.4,HiSeq 2500,male,Other MND - Spinal Bulbar Muscular Atrophy (SBMA)
+CGND_12953,Male,Not Applicable,Not Applicable,Not Applicable,62,Spinal_Cord_Lumbar,6.6,HiSeq 2500,male,Other MND - Spinal Bulbar Muscular Atrophy (SBMA)
+CGND_12966,Male,Not Applicable,Not Applicable,Not Applicable,62,Liver,6.3,HiSeq 2500,male,Other MND - Spinal Bulbar Muscular Atrophy (SBMA)
+CGND_12966,Male,Limb,"Limb - Upper Limb, Right Hand",79,79,Liver,6,HiSeq 2500,male,ALS
+CGND_12966,Male,Bulbar,Bulbar,80,82,Cerebellum,4.7,HiSeq 2500,male,ALS
+CGND_13043,Male,Bulbar,Bulbar,80,82,Cerebellum,2.6,HiSeq 2500,male,ALS
+CGND_13043,Male,Bulbar,Bulbar,80,82,Cortex_Frontal,4,HiSeq 2500,male,ALS
+CGND_13043,Male,Bulbar,Bulbar,80,82,Cortex_Occipital,3,HiSeq 2500,male,ALS
+CGND_13043,Male,Bulbar,Bulbar,80,82,Spinal_Cord_Thoracic,5.7,HiSeq 2500,male,ALS
+CGND_13043,Male,Bulbar,Bulbar,80,82,Cortex_Motor_Medial,4.9,HiSeq 2500,male,ALS
+CGND_13043,Male,Bulbar,Bulbar,80,82,Cortex_Motor_Lateral,3.8,HiSeq 2500,male,ALS
+CGND_13043,Male,Bulbar,Bulbar,80,82,Spinal_Cord_Lumbar,4.9,HiSeq 2500,male,ALS
+CGND_12966,Female,Bulbar,Bulbar - Speech,70,72,Liver,6.5,HiSeq 2500,female,ALS
+CGND_13132,Female,Bulbar,Bulbar - Speech,70,72,Cortex_Frontal,7.1,HiSeq 2500,female,ALS
+CGND_13132,Female,Bulbar,Bulbar - Speech,70,72,Cortex_Occipital,6.6,HiSeq 2500,female,ALS
+CGND_13132,Female,Bulbar,Bulbar - Speech,70,72,Spinal_Cord_Thoracic,6.9,HiSeq 2500,female,ALS
+CGND_13315,Female,Bulbar,Bulbar - Speech,70,72,Cerebellum,7.7,HiSeq 2500,female,ALS
+CGND_13569,Female,Bulbar,Bulbar - Speech,70,72,Cortex_Motor_Medial,7.6,HiSeq 2500,female,ALS
+CGND_13569,Female,Bulbar,Bulbar - Speech,70,72,Cortex_Motor_Lateral,7.5,HiSeq 2500,female,ALS
+CGND_13569,Female,Bulbar,Bulbar - Speech,70,72,Spinal_Cord_Cervical,7.5,HiSeq 2500,female,ALS
+CGND_13569,Female,Bulbar,Bulbar - Speech,70,72,Spinal_Cord_Lumbar,7.9,HiSeq 2500,female,ALS
+CGND_14039,Female,Bulbar,Bulbar - Speech,70,72,Choroid,8.3,NovaSeq,female,ALS
+CGND_12966,Female,Not Applicable,Not Applicable,Not Applicable,16,Spinal_Cord_Cervical,6.4,HiSeq 2500,female,Non-Neurologic Control
+CGND_13043,Female,Not Applicable,Not Applicable,Not Applicable,16,Spinal_Cord_Lumbar,6.1,HiSeq 2500,female,Non-Neurologic Control
+CGND_12966,Female,Not Applicable,Not Applicable,Not Applicable,50,Spinal_Cord_Lumbar,7.3,HiSeq 2500,female,Non-Neurologic Control
+CGND_13043,Female,Not Applicable,Not Applicable,Not Applicable,50,Spinal_Cord_Cervical,6.5,HiSeq 2500,female,Non-Neurologic Control
+CGND_12966,Female,Limb,"Limb - Upper Limb, Left Hand/Fingers",57,60,Cerebellum,5.3,HiSeq 2500,female,ALS
+CGND_12966,Female,Limb,"Limb - Upper Limb, Left Hand/Fingers",57,60,Cortex_Motor_Medial,4.9,HiSeq 2500,female,ALS
+CGND_12966,Female,Limb,"Limb - Upper Limb, Left Hand/Fingers",57,60,Cortex_Motor_Lateral,5.1,HiSeq 2500,female,ALS
+CGND_12966,Female,Limb,"Limb - Upper Limb, Left Hand/Fingers",57,60,Spinal_Cord_Cervical,6.6,HiSeq 2500,female,ALS
+CGND_12966,Female,Limb,"Limb - Upper Limb, Left Hand/Fingers",57,60,Spinal_Cord_Lumbar,7.6,HiSeq 2500,female,ALS
+CGND_12966,Female,Limb,"Limb - Upper Limb, Left Hand/Fingers",57,60,Cortex_Frontal,7.2,HiSeq 2500,female,ALS
+CGND_13315,Female,Limb,"Limb - Upper Limb, Left Hand/Fingers",57,60,Cortex_Occipital,2.6,HiSeq 2500,female,ALS
+CGND_13315,Female,Limb,"Limb - Upper Limb, Left Hand/Fingers",57,60,Spinal_Cord_Thoracic,6.9,HiSeq 2500,female,ALS
+CGND_12966,Male,Unknown,Unknown,35,39,Cerebellum,6.5,HiSeq 2500,male,ALS
+CGND_12966,Male,Unknown,Unknown,35,39,Cortex_Motor_Medial,5.7,HiSeq 2500,male,ALS
+CGND_12966,Male,Unknown,Unknown,35,39,Cortex_Motor_Lateral,6,HiSeq 2500,male,ALS
+CGND_12966,Male,Unknown,Unknown,35,39,Spinal_Cord_Cervical,6.4,HiSeq 2500,male,ALS
+CGND_12966,Male,Unknown,Unknown,35,39,Spinal_Cord_Lumbar,8,HiSeq 2500,male,ALS
+CGND_12966,Male,Unknown,Unknown,35,39,Cortex_Frontal,6.7,HiSeq 2500,male,ALS
+CGND_13234,Male,Unknown,Unknown,35,39,Cortex_Occipital,2.7,HiSeq 2500,male,ALS
+CGND_13234,Male,Unknown,Unknown,35,39,Spinal_Cord_Thoracic,5,HiSeq 2500,male,ALS
+CGND_12966,Female,Bulbar and Limb,"Bulbar - Speech; Limb - Lower Limb, Right Ankle/Foot/Toes",60,63,Cerebellum,7.9,HiSeq 2500,female,ALS
+CGND_12966,Female,Bulbar and Limb,"Bulbar - Speech; Limb - Lower Limb, Right Ankle/Foot/Toes",60,63,Cortex_Motor_Medial,7,HiSeq 2500,female,ALS
+CGND_12966,Female,Bulbar and Limb,"Bulbar - Speech; Limb - Lower Limb, Right Ankle/Foot/Toes",60,63,Cortex_Motor_Lateral,6.6,HiSeq 2500,female,ALS
+CGND_12966,Female,Bulbar and Limb,"Bulbar - Speech; Limb - Lower Limb, Right Ankle/Foot/Toes",60,63,Spinal_Cord_Cervical,6.9,HiSeq 2500,female,ALS
+CGND_12966,Female,Bulbar and Limb,"Bulbar - Speech; Limb - Lower Limb, Right Ankle/Foot/Toes",60,63,Spinal_Cord_Lumbar,7.4,HiSeq 2500,female,ALS
+CGND_12966,Female,Bulbar and Limb,"Bulbar - Speech; Limb - Lower Limb, Right Ankle/Foot/Toes",60,63,Cortex_Frontal,6.6,HiSeq 2500,female,ALS
+CGND_13234,Female,Bulbar and Limb,"Bulbar - Speech; Limb - Lower Limb, Right Ankle/Foot/Toes",60,63,Cortex_Occipital,4.4,HiSeq 2500,female,ALS
+CGND_13234,Female,Bulbar and Limb,"Bulbar - Speech; Limb - Lower Limb, Right Ankle/Foot/Toes",60,63,Spinal_Cord_Thoracic,2.5,HiSeq 2500,female,ALS
+CGND_13569,Female,Bulbar and Limb,"Bulbar - Speech; Limb - Lower Limb, Right Ankle/Foot/Toes",60,63,Spinal_Cord_Cervical,6.9,HiSeq 2500,female,ALS
+CGND_12966,Male,Unknown,Unknown,81,83,Cerebellum,5.7,HiSeq 2500,male,ALS
+CGND_12966,Male,Unknown,Unknown,81,83,Cortex_Motor_Medial,4.2,HiSeq 2500,male,ALS
+CGND_12966,Male,Unknown,Unknown,81,83,Cortex_Motor_Lateral,5.7,HiSeq 2500,male,ALS
+CGND_12966,Male,Unknown,Unknown,81,83,Spinal_Cord_Cervical,5,HiSeq 2500,male,ALS
+CGND_12966,Male,Unknown,Unknown,81,83,Spinal_Cord_Lumbar,6.8,HiSeq 2500,male,ALS
+CGND_12966,Male,Unknown,Unknown,81,83,Cortex_Frontal,4.2,HiSeq 2500,male,ALS
+CGND_13315,Male,Unknown,Unknown,81,83,Spinal_Cord_Thoracic,5.6,HiSeq 2500,male,ALS
+CGND_13867,Male,Unknown,Unknown,81,83,Cortex_Occipital,3.4,NovaSeq,male,ALS
+CGND_14039,Male,Unknown,Unknown,81,83,Choroid,5.9,NovaSeq,male,ALS
+CGND_13028,Female,Bulbar,Bulbar - Speech and Swallowing,69,71,Cortex_Motor_Lateral,5.9,HiSeq 2500,female,ALS + Alzheimer's disease
+CGND_13066,Female,Bulbar,Bulbar - Speech and Swallowing,69,71,Cerebellum,6.2,HiSeq 2500,female,ALS + Alzheimer's disease
+CGND_13066,Female,Bulbar,Bulbar - Speech and Swallowing,69,71,Cortex_Frontal,6.5,HiSeq 2500,female,ALS + Alzheimer's disease
+CGND_13066,Female,Bulbar,Bulbar - Speech and Swallowing,69,71,Cortex_Occipital,6,HiSeq 2500,female,ALS + Alzheimer's disease
+CGND_13066,Female,Bulbar,Bulbar - Speech and Swallowing,69,71,Spinal_Cord_Thoracic,6.4,HiSeq 2500,female,ALS + Alzheimer's disease
+CGND_13132,Female,Bulbar,Bulbar - Speech and Swallowing,69,71,Cortex_Motor_Medial,6.5,HiSeq 2500,female,ALS + Alzheimer's disease
+CGND_13132,Female,Bulbar,Bulbar - Speech and Swallowing,69,71,Spinal_Cord_Cervical,6.8,HiSeq 2500,female,ALS + Alzheimer's disease
+CGND_13132,Female,Bulbar,Bulbar - Speech and Swallowing,69,71,Spinal_Cord_Lumbar,6.7,HiSeq 2500,female,ALS + Alzheimer's disease
+CGND_13043,Female,Not Applicable,Not Applicable,Not Applicable,65,Spinal_Cord_Cervical,3.5,HiSeq 2500,female,Non-Neurologic Control
+CGND_13043,Female,Not Applicable,Not Applicable,Not Applicable,65,Spinal_Cord_Lumbar,4.4,HiSeq 2500,female,Non-Neurologic Control
+CGND_13043,Female,Limb,"Limb - Upper Limb, Right",52,56,Cortex_Frontal,6.6,HiSeq 2500,female,Other MND - Primary Lateral Sclerosis (PLS)
+CGND_13043,Female,Limb,"Limb - Upper Limb, Right",52,56,Spinal_Cord_Thoracic,6.9,HiSeq 2500,female,Other MND - Primary Lateral Sclerosis (PLS)
+CGND_13043,Female,Limb,"Limb - Upper Limb, Right",52,56,Cerebellum,6.8,HiSeq 2500,female,Other MND - Primary Lateral Sclerosis (PLS)
+CGND_13043,Female,Limb,"Limb - Upper Limb, Right",52,56,Cortex_Occipital,6.1,HiSeq 2500,female,Other MND - Primary Lateral Sclerosis (PLS)
+CGND_13043,Female,Limb,"Limb - Upper Limb, Right",52,56,Cortex_Motor_Medial,5.1,HiSeq 2500,female,Other MND - Primary Lateral Sclerosis (PLS)
+CGND_13043,Female,Limb,"Limb - Upper Limb, Right",52,56,Cortex_Motor_Lateral,6,HiSeq 2500,female,Other MND - Primary Lateral Sclerosis (PLS)
+CGND_13043,Female,Limb,"Limb - Upper Limb, Right",52,56,Spinal_Cord_Lumbar,5.5,HiSeq 2500,female,Other MND - Primary Lateral Sclerosis (PLS)
+CGND_13867,Female,Limb,"Limb - Upper Limb, Right",52,56,Liver,3.5,NovaSeq,female,Other MND - Primary Lateral Sclerosis (PLS)
+CGND_13066,Male,Bulbar,Bulbar - Speech,57,59,Cerebellum,5.5,HiSeq 2500,male,ALS/FTD + C9 repeat expansion
+CGND_13066,Male,Bulbar,Bulbar - Speech,57,59,Cortex_Occipital,3.1,HiSeq 2500,male,ALS/FTD + C9 repeat expansion
+CGND_13096,Male,Bulbar,Bulbar - Speech,57,59,Spinal_Cord_Cervical,6.4,HiSeq 2500,male,ALS/FTD + C9 repeat expansion
+CGND_13132,Male,Bulbar,Bulbar - Speech,57,59,Cortex_Frontal,4,HiSeq 2500,male,ALS/FTD + C9 repeat expansion
+CGND_13132,Male,Bulbar,Bulbar - Speech,57,59,Cortex_Motor_Medial,4.9,HiSeq 2500,male,ALS/FTD + C9 repeat expansion
+CGND_13132,Male,Bulbar,Bulbar - Speech,57,59,Cortex_Motor_Lateral,5.3,HiSeq 2500,male,ALS/FTD + C9 repeat expansion
+CGND_13132,Male,Bulbar,Bulbar - Speech,57,59,Spinal_Cord_Lumbar,5.9,HiSeq 2500,male,ALS/FTD + C9 repeat expansion
+CGND_13066,Female,Axial and Bulbar,"Axial - Trunk, Respiratory; Bulbar - Speech and Swallowing",57,59,Cortex_Frontal,7.5,HiSeq 2500,female,ALS + ATXN2 Intermediate repeat length
+CGND_13066,Female,Axial and Bulbar,"Axial - Trunk, Respiratory; Bulbar - Speech and Swallowing",57,59,Cortex_Occipital,6.5,HiSeq 2500,female,ALS + ATXN2 Intermediate repeat length
+CGND_13096,Female,Axial and Bulbar,"Axial - Trunk, Respiratory; Bulbar - Speech and Swallowing",57,59,Spinal_Cord_Thoracic,6.2,HiSeq 2500,female,ALS + ATXN2 Intermediate repeat length
+CGND_13132,Female,Axial and Bulbar,"Axial - Trunk, Respiratory; Bulbar - Speech and Swallowing",57,59,Cortex_Motor_Medial,5.9,HiSeq 2500,female,ALS + ATXN2 Intermediate repeat length
+CGND_13132,Female,Axial and Bulbar,"Axial - Trunk, Respiratory; Bulbar - Speech and Swallowing",57,59,Cortex_Motor_Lateral,6.7,HiSeq 2500,female,ALS + ATXN2 Intermediate repeat length
+CGND_13234,Female,Axial and Bulbar,"Axial - Trunk, Respiratory; Bulbar - Speech and Swallowing",57,59,Cerebellum,7.8,HiSeq 2500,female,ALS + ATXN2 Intermediate repeat length
+CGND_13569,Female,Axial and Bulbar,"Axial - Trunk, Respiratory; Bulbar - Speech and Swallowing",57,59,Spinal_Cord_Cervical,7.1,HiSeq 2500,female,ALS + ATXN2 Intermediate repeat length
+CGND_13066,Male,Limb,"Limb - Upper Limb, Left Arm, Hand/Fingers",67,69,Cerebellum,6.1,HiSeq 2500,male,ALS
+CGND_13096,Male,Limb,"Limb - Upper Limb, Left Arm, Hand/Fingers",67,69,Cortex_Motor_Medial,5.3,HiSeq 2500,male,ALS
+CGND_13096,Male,Limb,"Limb - Upper Limb, Left Arm, Hand/Fingers",67,69,Cortex_Motor_Lateral,5.4,HiSeq 2500,male,ALS
+CGND_13096,Male,Limb,"Limb - Upper Limb, Left Arm, Hand/Fingers",67,69,Spinal_Cord_Cervical,5.8,HiSeq 2500,male,ALS
+CGND_13096,Male,Limb,"Limb - Upper Limb, Left Arm, Hand/Fingers",67,69,Spinal_Cord_Lumbar,5.6,HiSeq 2500,male,ALS
+CGND_13132,Male,Limb,"Limb - Upper Limb, Left Arm, Hand/Fingers",67,69,Cortex_Frontal,5.1,HiSeq 2500,male,ALS
+CGND_13132,Male,Limb,"Limb - Upper Limb, Left Arm, Hand/Fingers",67,69,Cortex_Occipital,4.3,HiSeq 2500,male,ALS
+CGND_13132,Male,Limb,"Limb - Upper Limb, Left Arm, Hand/Fingers",67,69,Spinal_Cord_Thoracic,6.2,HiSeq 2500,male,ALS
+CGND_13066,Male,Not Applicable,Not Applicable,Not Applicable,72,Cortex_Motor_Unspecified,7.5,HiSeq 2500,male,Non-Neurologic Control
+CGND_13096,Male,Not Applicable,Not Applicable,Not Applicable,72,Spinal_Cord_Lumbar,6.1,HiSeq 2500,male,Non-Neurologic Control
+CGND_13132,Male,Not Applicable,Not Applicable,Not Applicable,72,Spinal_Cord_Thoracic,6.7,HiSeq 2500,male,Non-Neurologic Control
+CGND_13867,Male,Not Applicable,Not Applicable,Not Applicable,72,Spinal_Cord_Cervical,5.3,NovaSeq,male,Non-Neurologic Control
+CGND_13066,Female,Not Applicable,Not Applicable,Not Applicable,37,Cerebellum,6.9,HiSeq 2500,female,Non-Neurologic Control
+CGND_13096,Female,Not Applicable,Not Applicable,Not Applicable,37,Cortex_Motor_Medial,5.4,HiSeq 2500,female,Non-Neurologic Control
+CGND_13096,Female,Not Applicable,Not Applicable,Not Applicable,37,Cortex_Motor_Lateral,5.7,HiSeq 2500,female,Non-Neurologic Control
+CGND_13132,Female,Not Applicable,Not Applicable,Not Applicable,37,Cortex_Frontal,5.3,HiSeq 2500,female,Non-Neurologic Control
+CGND_13132,Female,Not Applicable,Not Applicable,Not Applicable,37,Spinal_Cord_Thoracic,5.6,HiSeq 2500,female,Non-Neurologic Control
+CGND_13066,Male,Not Applicable,Not Applicable,Not Applicable,50,Cortex_Motor_Medial,5.7,HiSeq 2500,male,Non-Neurologic Control
+CGND_13132,Male,Not Applicable,Not Applicable,Not Applicable,50,Cortex_Frontal,4.9,HiSeq 2500,male,Non-Neurologic Control
+CGND_13132,Male,Not Applicable,Not Applicable,Not Applicable,50,Cortex_Occipital,4.7,HiSeq 2500,male,Non-Neurologic Control
+CGND_13066,Female,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",67,68,Cerebellum,4.9,HiSeq 2500,female,ALS
+CGND_13066,Female,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",67,68,Spinal_Cord_Cervical,6,HiSeq 2500,female,ALS
+CGND_13096,Female,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",67,68,Cortex_Motor_Medial,5.3,HiSeq 2500,female,ALS
+CGND_13096,Female,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",67,68,Cortex_Motor_Lateral,5.9,HiSeq 2500,female,ALS
+CGND_13132,Female,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",67,68,Cortex_Frontal,5.2,HiSeq 2500,female,ALS
+CGND_13132,Female,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",67,68,Cortex_Occipital,4.1,HiSeq 2500,female,ALS
+CGND_13132,Female,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",67,68,Spinal_Cord_Thoracic,5.8,HiSeq 2500,female,ALS
+CGND_14039,Female,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",67,68,Choroid,7.8,NovaSeq,female,ALS
+CGND_13066,Male,Limb,"Limb - Lower Limb, Left Foot",73,76,Cortex_Motor_Unspecified,5.5,HiSeq 2500,male,ALS
+CGND_13066,Male,Limb,"Limb - Lower Limb, Left Foot",73,76,Spinal_Cord_Cervical,5.8,HiSeq 2500,male,ALS
+CGND_13867,Male,Limb,"Limb - Lower Limb, Left Foot",73,76,Liver,3.8,NovaSeq,male,ALS
+CGND_13096,Male,Not Applicable,Not Applicable,Not Applicable,61,Spinal_Cord_Cervical,6.9,HiSeq 2500,male,Non-Neurologic Control
+CGND_13096,Male,Limb,"Limb - Lower Limb, Right Leg",50,53,Cerebellum,8,HiSeq 2500,male,ALS
+CGND_13096,Male,Limb,"Limb - Lower Limb, Right Leg",50,53,Cortex_Frontal,7.3,HiSeq 2500,male,ALS
+CGND_13096,Male,Limb,"Limb - Lower Limb, Right Leg",50,53,Cortex_Occipital,7.2,HiSeq 2500,male,ALS
+CGND_13096,Male,Limb,"Limb - Lower Limb, Right Leg",50,53,Spinal_Cord_Thoracic,7.4,HiSeq 2500,male,ALS
+CGND_13569,Male,Limb,"Limb - Lower Limb, Right Leg",50,53,Cortex_Motor_Unspecified,6.4,HiSeq 2500,male,ALS
+CGND_13569,Male,Limb,"Limb - Lower Limb, Right Leg",50,53,Spinal_Cord_Cervical,6.8,HiSeq 2500,male,ALS
+CGND_13569,Male,Limb,"Limb - Lower Limb, Right Leg",50,53,Spinal_Cord_Lumbar,6.7,HiSeq 2500,male,ALS
+CGND_13096,Male,Not Applicable,Not Applicable,Not Applicable,70,Cortex_Frontal,4.5,HiSeq 2500,male,Non-Neurologic Control
+CGND_13096,Male,Not Applicable,Not Applicable,Not Applicable,70,Cortex_Motor_Medial,5,HiSeq 2500,male,Non-Neurologic Control
+CGND_13096,Male,Not Applicable,Not Applicable,Not Applicable,70,Cortex_Motor_Lateral,5,HiSeq 2500,male,Non-Neurologic Control
+CGND_13569,Male,Not Applicable,Not Applicable,Not Applicable,70,Cerebellum,3.6,HiSeq 2500,male,Non-Neurologic Control
+CGND_14051,Male,Not Applicable,Not Applicable,Not Applicable,70,Choroid,7.6,NovaSeq,male,Non-Neurologic Control
+CGND_13096,Male,Not Applicable,Not Applicable,Not Applicable,51,Cortex_Occipital,5.2,HiSeq 2500,male,Non-Neurologic Control
+CGND_13096,Male,Not Applicable,Not Applicable,Not Applicable,51,Spinal_Cord_Thoracic,6.5,HiSeq 2500,male,Non-Neurologic Control
+CGND_13315,Male,Not Applicable,Not Applicable,Not Applicable,51,Cortex_Frontal,6.2,HiSeq 2500,male,Non-Neurologic Control
+CGND_13478,Male,Not Applicable,Not Applicable,Not Applicable,51,Cerebellum,5.4,HiSeq 2500,male,Non-Neurologic Control
+CGND_14039,Male,Not Applicable,Not Applicable,Not Applicable,51,Cortex_Motor_Medial,6,NovaSeq,male,Non-Neurologic Control
+CGND_14039,Male,Not Applicable,Not Applicable,Not Applicable,51,Cortex_Motor_Lateral,6.7,NovaSeq,male,Non-Neurologic Control
+CGND_14039,Male,Not Applicable,Not Applicable,Not Applicable,51,Spinal_Cord_Cervical,6.1,NovaSeq,male,Non-Neurologic Control
+CGND_14039,Male,Not Applicable,Not Applicable,Not Applicable,51,Spinal_Cord_Lumbar,5.1,NovaSeq,male,Non-Neurologic Control
+CGND_14051,Male,Not Applicable,Not Applicable,Not Applicable,51,Choroid,7.3,NovaSeq,male,Non-Neurologic Control
+CGND_13096,Male,Limb,"Limb - Upper Limb, Right",47,51,Cortex_Occipital,7.3,HiSeq 2500,male,ALS
+CGND_13096,Male,Limb,"Limb - Upper Limb, Right",47,51,Spinal_Cord_Thoracic,7.9,HiSeq 2500,male,ALS
+CGND_13315,Male,Limb,"Limb - Upper Limb, Right",47,51,Cortex_Frontal,7,HiSeq 2500,male,ALS
+CGND_13315,Male,Limb,"Limb - Upper Limb, Right",47,51,Cerebellum,7.5,HiSeq 2500,male,ALS
+CGND_13867,Male,Limb,"Limb - Upper Limb, Right",47,51,Cortex_Motor_Medial,7,NovaSeq,male,ALS
+CGND_13867,Male,Limb,"Limb - Upper Limb, Right",47,51,Cortex_Motor_Lateral,6.4,NovaSeq,male,ALS
+CGND_13867,Male,Limb,"Limb - Upper Limb, Right",47,51,Spinal_Cord_Cervical,7.2,NovaSeq,male,ALS
+CGND_13867,Male,Limb,"Limb - Upper Limb, Right",47,51,Spinal_Cord_Lumbar,7.9,NovaSeq,male,ALS
+CGND_14051,Male,Limb,"Limb - Upper Limb, Right",47,51,Choroid,8.3,NovaSeq,male,ALS
+CGND_13096,Male,Limb,"Limb - Upper Limb, Bilateral",50,59,Cortex_Occipital,7.1,HiSeq 2500,male,ALS
+CGND_13096,Male,Limb,"Limb - Upper Limb, Bilateral",50,59,Spinal_Cord_Thoracic,5.8,HiSeq 2500,male,ALS
+CGND_13315,Male,Limb,"Limb - Upper Limb, Bilateral",50,59,Cortex_Frontal,5.5,HiSeq 2500,male,ALS
+CGND_13315,Male,Limb,"Limb - Upper Limb, Bilateral",50,59,Cerebellum,7,HiSeq 2500,male,ALS
+CGND_13867,Male,Limb,"Limb - Upper Limb, Bilateral",50,59,Cortex_Motor_Medial,7.3,NovaSeq,male,ALS
+CGND_13867,Male,Limb,"Limb - Upper Limb, Bilateral",50,59,Cortex_Motor_Lateral,6.6,NovaSeq,male,ALS
+CGND_13867,Male,Limb,"Limb - Upper Limb, Bilateral",50,59,Spinal_Cord_Cervical,6,NovaSeq,male,ALS
+CGND_14051,Male,Limb,"Limb - Upper Limb, Bilateral",50,59,Choroid,7.6,NovaSeq,male,ALS
+CGND_13096,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",67,68,Cortex_Frontal,6.2,HiSeq 2500,male,ALS
+CGND_13096,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",67,68,Cortex_Occipital,3.9,HiSeq 2500,male,ALS
+CGND_13315,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",67,68,Cerebellum,5,HiSeq 2500,male,ALS
+CGND_13569,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",67,68,Cortex_Motor_Medial,5.1,HiSeq 2500,male,ALS
+CGND_13569,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",67,68,Cortex_Motor_Lateral,5.9,HiSeq 2500,male,ALS
+CGND_13096,Male,Limb,"Limb - Upper Limb, Bilateral Arm, Lower Limb, Bilateral Leg",36,38,Cortex_Frontal,7,HiSeq 2500,male,ALS
+CGND_13096,Male,Limb,"Limb - Upper Limb, Bilateral Arm, Lower Limb, Bilateral Leg",36,38,Cortex_Occipital,6,HiSeq 2500,male,ALS
+CGND_13096,Male,Limb,"Limb - Upper Limb, Bilateral Arm, Lower Limb, Bilateral Leg",36,38,Spinal_Cord_Thoracic,7,HiSeq 2500,male,ALS
+CGND_13569,Male,Limb,"Limb - Upper Limb, Bilateral Arm, Lower Limb, Bilateral Leg",36,38,Cortex_Motor_Unspecified,7.1,HiSeq 2500,male,ALS
+CGND_13569,Male,Limb,"Limb - Upper Limb, Bilateral Arm, Lower Limb, Bilateral Leg",36,38,Spinal_Cord_Cervical,6.7,HiSeq 2500,male,ALS
+CGND_13569,Male,Limb,"Limb - Upper Limb, Bilateral Arm, Lower Limb, Bilateral Leg",36,38,Spinal_Cord_Lumbar,6.1,HiSeq 2500,male,ALS
+CGND_13867,Male,Limb,"Limb - Upper Limb, Bilateral Arm, Lower Limb, Bilateral Leg",36,38,Liver,3.9,NovaSeq,male,ALS
+CGND_13096,Male,Not Applicable,Not Applicable,Not Applicable,72,Cortex_Frontal,5.2,HiSeq 2500,male,Non-Neurologic Control
+CGND_13096,Male,Not Applicable,Not Applicable,Not Applicable,72,Spinal_Cord_Thoracic,5.6,HiSeq 2500,male,Non-Neurologic Control
+CGND_13478,Male,Not Applicable,Not Applicable,Not Applicable,72,Cerebellum,3.7,HiSeq 2500,male,Non-Neurologic Control
+CGND_13569,Male,Not Applicable,Not Applicable,Not Applicable,72,Cortex_Motor_Medial,5.4,HiSeq 2500,male,Non-Neurologic Control
+CGND_13569,Male,Not Applicable,Not Applicable,Not Applicable,72,Spinal_Cord_Cervical,6.2,HiSeq 2500,male,Non-Neurologic Control
+CGND_13867,Male,Not Applicable,Not Applicable,Not Applicable,72,Liver,3.1,NovaSeq,male,Non-Neurologic Control
+CGND_13096,Female,Not Applicable,Not Applicable,Not Applicable,71,Cortex_Frontal,4.4,HiSeq 2500,female,Non-Neurologic Control
+CGND_13569,Female,Not Applicable,Not Applicable,Not Applicable,71,Spinal_Cord_Thoracic,5.9,HiSeq 2500,female,Non-Neurologic Control
+CGND_13867,Female,Not Applicable,Not Applicable,Not Applicable,71,Cortex_Motor_Medial,3.4,NovaSeq,female,Non-Neurologic Control
+CGND_13867,Female,Not Applicable,Not Applicable,Not Applicable,71,Cortex_Motor_Lateral,3.6,NovaSeq,female,Non-Neurologic Control
+CGND_13132,Female,Limb,"Limb - Lower Limb, Leg, Ankle/Foot/Toes",64,68,Cortex_Frontal,5.2,HiSeq 2500,female,ALS
+CGND_13132,Female,Limb,"Limb - Lower Limb, Leg, Ankle/Foot/Toes",64,68,Cortex_Occipital,6.1,HiSeq 2500,female,ALS
+CGND_13867,Female,Limb,"Limb - Lower Limb, Leg, Ankle/Foot/Toes",64,68,Spinal_Cord_Cervical,6.5,NovaSeq,female,ALS
+CGND_13867,Female,Limb,"Limb - Lower Limb, Leg, Ankle/Foot/Toes",64,68,Spinal_Cord_Lumbar,5.9,NovaSeq,female,ALS
+CGND_13867,Female,Limb,"Limb - Lower Limb, Leg, Ankle/Foot/Toes",64,68,Cerebellum,7,NovaSeq,female,ALS
+CGND_14051,Female,Limb,"Limb - Lower Limb, Leg, Ankle/Foot/Toes",64,68,Choroid,7.1,NovaSeq,female,ALS
+CGND_13132,Female,Bulbar,Bulbar - Speech and Swallowing,69,71,Cortex_Frontal,4.9,HiSeq 2500,female,ALS
+CGND_13132,Female,Bulbar,Bulbar - Speech and Swallowing,69,71,Cortex_Occipital,5.7,HiSeq 2500,female,ALS
+CGND_13132,Female,Bulbar,Bulbar - Speech and Swallowing,69,71,Spinal_Cord_Thoracic,6.2,HiSeq 2500,female,ALS
+CGND_13315,Female,Bulbar,Bulbar - Speech and Swallowing,69,71,Cerebellum,5.7,HiSeq 2500,female,ALS
+CGND_13315,Female,Bulbar,Bulbar - Speech and Swallowing,69,71,Cortex_Motor_Medial,3.9,HiSeq 2500,female,ALS
+CGND_13569,Female,Bulbar,Bulbar - Speech and Swallowing,69,71,Cortex_Motor_Lateral,6.8,HiSeq 2500,female,ALS
+CGND_13569,Female,Bulbar,Bulbar - Speech and Swallowing,69,71,Spinal_Cord_Cervical,6.4,HiSeq 2500,female,ALS
+CGND_13569,Female,Bulbar,Bulbar - Speech and Swallowing,69,71,Spinal_Cord_Lumbar,5.7,HiSeq 2500,female,ALS
+CGND_13867,Female,Bulbar,Bulbar - Speech and Swallowing,69,71,Liver,3.2,NovaSeq,female,ALS
+CGND_13132,Male,Limb,"Limb - Lower Limb, Left Leg",61,69,Cortex_Frontal,5.4,HiSeq 2500,male,ALS
+CGND_13478,Male,Limb,"Limb - Lower Limb, Left Leg",61,69,Cerebellum,3,HiSeq 2500,male,ALS
+CGND_13569,Male,Limb,"Limb - Lower Limb, Left Leg",61,69,Spinal_Cord_Thoracic,5.2,HiSeq 2500,male,ALS
+CGND_13867,Male,Limb,"Limb - Lower Limb, Left Leg",61,69,Cortex_Motor_Medial,4.2,NovaSeq,male,ALS
+CGND_13867,Male,Limb,"Limb - Lower Limb, Left Leg",61,69,Cortex_Motor_Lateral,4.2,NovaSeq,male,ALS
+CGND_13867,Male,Limb,"Limb - Lower Limb, Left Leg",61,69,Spinal_Cord_Cervical,5.4,NovaSeq,male,ALS
+CGND_13132,Male,Bulbar and Limb,"Bulbar - Speech and Swallowing; Limb - Upper Limb, Right Hand/Fingers",67,69,Cortex_Frontal,6.3,HiSeq 2500,male,ALS
+CGND_13132,Male,Bulbar and Limb,"Bulbar - Speech and Swallowing; Limb - Upper Limb, Right Hand/Fingers",67,69,Cortex_Occipital,4.9,HiSeq 2500,male,ALS
+CGND_13315,Male,Bulbar and Limb,"Bulbar - Speech and Swallowing; Limb - Upper Limb, Right Hand/Fingers",67,69,Spinal_Cord_Thoracic,6.5,HiSeq 2500,male,ALS
+CGND_13478,Male,Bulbar and Limb,"Bulbar - Speech and Swallowing; Limb - Upper Limb, Right Hand/Fingers",67,69,Cerebellum,7.1,HiSeq 2500,male,ALS
+CGND_14039,Male,Bulbar and Limb,"Bulbar - Speech and Swallowing; Limb - Upper Limb, Right Hand/Fingers",67,69,Cortex_Motor_Medial,6.1,NovaSeq,male,ALS
+CGND_14039,Male,Bulbar and Limb,"Bulbar - Speech and Swallowing; Limb - Upper Limb, Right Hand/Fingers",67,69,Cortex_Motor_Lateral,5.9,NovaSeq,male,ALS
+CGND_14039,Male,Bulbar and Limb,"Bulbar - Speech and Swallowing; Limb - Upper Limb, Right Hand/Fingers",67,69,Spinal_Cord_Cervical,7.6,NovaSeq,male,ALS
+CGND_14039,Male,Bulbar and Limb,"Bulbar - Speech and Swallowing; Limb - Upper Limb, Right Hand/Fingers",67,69,Spinal_Cord_Lumbar,8,NovaSeq,male,ALS
+CGND_14039,Male,Bulbar and Limb,"Bulbar - Speech and Swallowing; Limb - Upper Limb, Right Hand/Fingers",67,69,Choroid,7.4,NovaSeq,male,ALS
+CGND_14039,Male,Bulbar and Limb,"Bulbar - Speech and Swallowing; Limb - Upper Limb, Right Hand/Fingers",67,69,Choroid,7.1,NovaSeq,male,ALS
+CGND_14051,Male,Bulbar and Limb,"Bulbar - Speech and Swallowing; Limb - Upper Limb, Right Hand/Fingers",67,69,Choroid,7.1,NovaSeq,male,ALS
+CGND_13132,Female,Limb,"Limb - Lower Limb, Left Foot",64,67,Cortex_Frontal,6.9,HiSeq 2500,female,ALS
+CGND_13234,Female,Limb,"Limb - Lower Limb, Left Foot",64,67,Cortex_Occipital,4.4,HiSeq 2500,female,ALS
+CGND_13315,Female,Limb,"Limb - Lower Limb, Left Foot",64,67,Cerebellum,7.7,HiSeq 2500,female,ALS
+CGND_13867,Female,Limb,"Limb - Lower Limb, Left Foot",64,67,Cortex_Motor_Medial,6.8,NovaSeq,female,ALS
+CGND_13867,Female,Limb,"Limb - Lower Limb, Left Foot",64,67,Cortex_Motor_Lateral,6.4,NovaSeq,female,ALS
+CGND_13867,Female,Limb,"Limb - Lower Limb, Left Foot",64,67,Spinal_Cord_Cervical,6.4,NovaSeq,female,ALS
+CGND_14039,Female,Limb,"Limb - Lower Limb, Left Foot",64,67,Spinal_Cord_Lumbar,7.9,NovaSeq,female,ALS
+CGND_13234,Female,Limb,"Limb - Lower Limb, Right Leg",52,59,Cortex_Frontal,6.6,HiSeq 2500,female,ALS
+CGND_13315,Female,Limb,"Limb - Lower Limb, Right Leg",52,59,Cortex_Occipital,4.3,HiSeq 2500,female,ALS
+CGND_13315,Female,Limb,"Limb - Lower Limb, Right Leg",52,59,Cerebellum,5.9,HiSeq 2500,female,ALS
+CGND_13867,Female,Limb,"Limb - Lower Limb, Right Leg",52,59,Spinal_Cord_Thoracic,5.2,NovaSeq,female,ALS
+CGND_14039,Female,Limb,"Limb - Lower Limb, Right Leg",52,59,Spinal_Cord_Cervical,6.9,NovaSeq,female,ALS
+CGND_14051,Female,Limb,"Limb - Lower Limb, Right Leg",52,59,Cortex_Motor_Lateral,6.1,NovaSeq,female,ALS
+CGND_13234,Female,Limb,"Limb - Lower Limb, Right Leg",50,54,Cortex_Occipital,6.5,HiSeq 2500,female,ALS
+CGND_13234,Female,Limb,"Limb - Lower Limb, Right Leg",50,54,Cortex_Frontal,6.7,HiSeq 2500,female,ALS
+CGND_13234,Female,Limb,"Limb - Lower Limb, Right Leg",50,54,Cerebellum,7.8,HiSeq 2500,female,ALS
+CGND_13234,Female,Limb,"Limb - Lower Limb, Right Leg",50,54,Spinal_Cord_Thoracic,8,HiSeq 2500,female,ALS
+CGND_14039,Female,Limb,"Limb - Lower Limb, Right Leg",50,54,Cortex_Motor_Medial,6.1,NovaSeq,female,ALS
+CGND_14039,Female,Limb,"Limb - Lower Limb, Right Leg",50,54,Cortex_Motor_Lateral,7.2,NovaSeq,female,ALS
+CGND_14039,Female,Limb,"Limb - Lower Limb, Right Leg",50,54,Spinal_Cord_Cervical,8.9,NovaSeq,female,ALS
+CGND_14051,Female,Limb,"Limb - Lower Limb, Right Leg",50,54,Spinal_Cord_Lumbar,6.6,NovaSeq,female,ALS
+CGND_13315,Female,Limb,"Limb - Upper Limb, Right Arm",60,61,Cortex_Frontal,7,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_13315,Female,Limb,"Limb - Upper Limb, Right Arm",60,61,Cerebellum,7.2,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_13867,Female,Limb,"Limb - Upper Limb, Right Arm",60,61,Cortex_Motor_Medial,7.9,NovaSeq,female,ALS + C9 repeat expansion
+CGND_13867,Female,Limb,"Limb - Upper Limb, Right Arm",60,61,Cortex_Motor_Lateral,7,NovaSeq,female,ALS + C9 repeat expansion
+CGND_13867,Female,Limb,"Limb - Upper Limb, Right Arm",60,61,Spinal_Cord_Cervical,8.1,NovaSeq,female,ALS + C9 repeat expansion
+CGND_13867,Female,Limb,"Limb - Upper Limb, Right Arm",60,61,Spinal_Cord_Lumbar,7.7,NovaSeq,female,ALS + C9 repeat expansion
+CGND_13315,Female,Not Applicable,Not Applicable,Not Applicable,57,Cortex_Frontal,5.6,HiSeq 2500,female,Non-Neurologic Control
+CGND_13315,Female,Not Applicable,Not Applicable,Not Applicable,57,Cerebellum,4.1,HiSeq 2500,female,Non-Neurologic Control
+CGND_13867,Female,Not Applicable,Not Applicable,Not Applicable,57,Cortex_Motor_Medial,3.8,NovaSeq,female,Non-Neurologic Control
+CGND_13867,Female,Not Applicable,Not Applicable,Not Applicable,57,Spinal_Cord_Lumbar,3.7,NovaSeq,female,Non-Neurologic Control
+CGND_14051,Female,Not Applicable,Not Applicable,Not Applicable,57,Choroid,7.5,NovaSeq,female,Non-Neurologic Control
+CGND_13315,Male,Not Applicable,Not Applicable,Not Applicable,59,Cortex_Frontal,3.2,HiSeq 2500,male,Non-Neurologic Control
+CGND_13315,Male,Not Applicable,Not Applicable,Not Applicable,59,Spinal_Cord_Cervical,6,HiSeq 2500,male,Non-Neurologic Control
+CGND_13315,Male,Not Applicable,Not Applicable,Not Applicable,59,Cerebellum,3.4,HiSeq 2500,male,Non-Neurologic Control
+CGND_13867,Male,Not Applicable,Not Applicable,Not Applicable,59,Cortex_Motor_Medial,4.3,NovaSeq,male,Non-Neurologic Control
+CGND_13867,Male,Not Applicable,Not Applicable,Not Applicable,59,Cortex_Motor_Lateral,3.9,NovaSeq,male,Non-Neurologic Control
+CGND_13315,Male,Bulbar,Bulbar - Speech and Swallowing,66,66,Cortex_Occipital,6.6,HiSeq 2500,male,ALS/FTD
+CGND_13315,Male,Bulbar,Bulbar - Speech and Swallowing,66,66,Cortex_Frontal,6.3,HiSeq 2500,male,ALS/FTD
+CGND_13315,Male,Bulbar,Bulbar - Speech and Swallowing,66,66,Cerebellum,7.8,HiSeq 2500,male,ALS/FTD
+CGND_13315,Male,Bulbar,Bulbar - Speech and Swallowing,66,66,Spinal_Cord_Thoracic,7.3,HiSeq 2500,male,ALS/FTD
+CGND_14039,Male,Bulbar,Bulbar - Speech and Swallowing,66,66,Cortex_Motor_Medial,7.7,NovaSeq,male,ALS/FTD
+CGND_14039,Male,Bulbar,Bulbar - Speech and Swallowing,66,66,Spinal_Cord_Cervical,7.8,NovaSeq,male,ALS/FTD
+CGND_14051,Male,Bulbar,Bulbar - Speech and Swallowing,66,66,Spinal_Cord_Lumbar,6.9,NovaSeq,male,ALS/FTD
+CGND_13315,Male,Limb,"Limb - Lower Limb, Leg",47,48,Cortex_Occipital,6.2,HiSeq 2500,male,ALS
+CGND_13315,Male,Limb,"Limb - Lower Limb, Leg",47,48,Cortex_Frontal,6.6,HiSeq 2500,male,ALS
+CGND_13315,Male,Limb,"Limb - Lower Limb, Leg",47,48,Cerebellum,7,HiSeq 2500,male,ALS
+CGND_13315,Male,Limb,"Limb - Lower Limb, Leg",47,48,Spinal_Cord_Thoracic,7.5,HiSeq 2500,male,ALS
+CGND_14051,Male,Limb,"Limb - Lower Limb, Leg",47,48,Cortex_Motor_Medial,6.2,NovaSeq,male,ALS
+CGND_14051,Male,Limb,"Limb - Lower Limb, Leg",47,48,Spinal_Cord_Lumbar,6.7,NovaSeq,male,ALS
+CGND_14051,Male,Limb,"Limb - Lower Limb, Leg",47,48,Spinal_Cord_Cervical,7.2,NovaSeq,male,ALS
+CGND_13315,Male,Axial and Limb,"Axial - Trunk, Respiratory; Limb - Lower Limb, Left Leg",68,72,Cortex_Occipital,6.1,HiSeq 2500,male,ALS
+CGND_13315,Male,Axial and Limb,"Axial - Trunk, Respiratory; Limb - Lower Limb, Left Leg",68,72,Cortex_Frontal,6.6,HiSeq 2500,male,ALS
+CGND_13315,Male,Axial and Limb,"Axial - Trunk, Respiratory; Limb - Lower Limb, Left Leg",68,72,Cerebellum,6,HiSeq 2500,male,ALS
+CGND_13315,Male,Axial and Limb,"Axial - Trunk, Respiratory; Limb - Lower Limb, Left Leg",68,72,Spinal_Cord_Thoracic,6.1,HiSeq 2500,male,ALS
+CGND_14051,Male,Axial and Limb,"Axial - Trunk, Respiratory; Limb - Lower Limb, Left Leg",68,72,Cortex_Motor_Medial,5.6,NovaSeq,male,ALS
+CGND_14051,Male,Axial and Limb,"Axial - Trunk, Respiratory; Limb - Lower Limb, Left Leg",68,72,Cortex_Motor_Lateral,5.6,NovaSeq,male,ALS
+CGND_14051,Male,Axial and Limb,"Axial - Trunk, Respiratory; Limb - Lower Limb, Left Leg",68,72,Spinal_Cord_Lumbar,6.6,NovaSeq,male,ALS
+CGND_14051,Male,Axial and Limb,"Axial - Trunk, Respiratory; Limb - Lower Limb, Left Leg",68,72,Spinal_Cord_Cervical,6.1,NovaSeq,male,ALS
+CGND_13315,Female,Bulbar,Bulbar - Speech,65,66,Cortex_Frontal,5.9,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_13315,Female,Bulbar,Bulbar - Speech,65,66,Cerebellum,5.3,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_13478,Female,Bulbar,Bulbar - Speech,65,66,Spinal_Cord_Thoracic,5.5,HiSeq 2500,female,ALS + C9 repeat expansion
+CGND_13867,Female,Bulbar,Bulbar - Speech,65,66,Cortex_Occipital,5,NovaSeq,female,ALS + C9 repeat expansion
+CGND_14039,Female,Bulbar,Bulbar - Speech,65,66,Cortex_Motor_Lateral,5.8,NovaSeq,female,ALS + C9 repeat expansion
+CGND_14051,Female,Bulbar,Bulbar - Speech,65,66,Spinal_Cord_Lumbar,5.3,NovaSeq,female,ALS + C9 repeat expansion
+CGND_14051,Female,Bulbar,Bulbar - Speech,65,66,Spinal_Cord_Cervical,6.5,NovaSeq,female,ALS + C9 repeat expansion
+CGND_13478,Male,Limb,"Limb - Upper Limb, Bilateral Hand/Fingers",51,59,Cerebellum,6.9,HiSeq 2500,male,ALS + CTE
+CGND_13478,Male,Limb,"Limb - Upper Limb, Bilateral Hand/Fingers",51,59,Cortex_Frontal,6,HiSeq 2500,male,ALS + CTE
+CGND_14039,Male,Limb,"Limb - Upper Limb, Bilateral Hand/Fingers",51,59,Cortex_Motor_Medial,7.5,NovaSeq,male,ALS + CTE
+CGND_14039,Male,Limb,"Limb - Upper Limb, Bilateral Hand/Fingers",51,59,Cortex_Motor_Lateral,5,NovaSeq,male,ALS + CTE
+CGND_14039,Male,Limb,"Limb - Upper Limb, Bilateral Hand/Fingers",51,59,Spinal_Cord_Cervical,6.1,NovaSeq,male,ALS + CTE
+CGND_14039,Male,Limb,"Limb - Upper Limb, Bilateral Hand/Fingers",51,59,Spinal_Cord_Lumbar,7.1,NovaSeq,male,ALS + CTE
+CGND_14051,Male,Limb,"Limb - Upper Limb, Bilateral Hand/Fingers",51,59,Choroid,8,NovaSeq,male,ALS + CTE
+CGND_13478,Male,Not Applicable,Not Applicable,Not Applicable,68,Cerebellum,3.5,HiSeq 2500,male,Non-Neurologic Control
+CGND_13478,Male,Not Applicable,Not Applicable,Not Applicable,68,Cortex_Frontal,4.6,HiSeq 2500,male,Non-Neurologic Control
+CGND_14039,Male,Not Applicable,Not Applicable,Not Applicable,68,Cortex_Motor_Medial,3.8,NovaSeq,male,Non-Neurologic Control
+CGND_14039,Male,Not Applicable,Not Applicable,Not Applicable,68,Cortex_Motor_Lateral,5.8,NovaSeq,male,Non-Neurologic Control
+CGND_14039,Male,Not Applicable,Not Applicable,Not Applicable,68,Spinal_Cord_Cervical,7.1,NovaSeq,male,Non-Neurologic Control
+CGND_14039,Male,Not Applicable,Not Applicable,Not Applicable,68,Spinal_Cord_Lumbar,5.7,NovaSeq,male,Non-Neurologic Control
+CGND_14051,Male,Not Applicable,Not Applicable,Not Applicable,68,Choroid,7.4,NovaSeq,male,Non-Neurologic Control
+CGND_13867,Male,Limb,"Limb - Upper Limb, Right Arm",68,71,Cortex_Sensory,2.9,NovaSeq,male,ALS
+CGND_13867,Female,Limb,"Limb - Upper Limb, Right Arm",47,50,Liver,3.3,NovaSeq,female,ALS
+CGND_13867,Male,Limb,"Limb - Upper Limb, Left Hand",48,52,Cortex_Frontal,3.2,NovaSeq,male,ALS + C9 repeat expansion
+CGND_13867,Male,Limb,"Limb - Upper Limb, Left, Lower Limb, Left",63,68,Liver,3,NovaSeq,male,ALS
+CGND_13867,Male,Limb,"Limb - Upper Limb, Left Arm",62,64,Cerebellum,2.6,NovaSeq,male,ALS
+CGND_13867,Female,Limb,"Limb - Lower Limb, Left Leg",43,45,Cerebellum,2.8,NovaSeq,female,ALS
+CGND_13867,Male,Bulbar,Bulbar,61,62,Cortex_Motor_Unspecified,2.9,NovaSeq,male,ALS/FTD + C9 repeat expansion
+CGND_13867,Female,Bulbar and Limb,Bulbar; Limb - Upper and Lower Limb,55,60,Spinal_Cord_Cervical,3.6,NovaSeq,female,ALS + C9 repeat expansion
+CGND_13867,Female,Not Applicable,Not Applicable,Not Applicable,90 or Older,Cerebellum,3.3,NovaSeq,female,Other MND - Polio
+CGND_13867,Female,Limb,"Limb - Lower Limb, Left Leg",52,56,Cerebellum,3.3,NovaSeq,female,ALS
+CGND_13867,Male,Bulbar,Bulbar,59,60,Cerebellum,3.3,NovaSeq,male,ALS
+CGND_13867,Female,Limb,"Limb - Upper Limb, Right Hand",62,68,Liver,2.4,NovaSeq,female,ALS
+CGND_13867,Male,Bulbar,Bulbar,68,75,Cerebellum,2.4,NovaSeq,male,ALS
+CGND_13867,Male,Limb,"Limb - Lower Limb, Right Leg",63,65,Cortex_Motor_Unspecified,2.4,NovaSeq,male,ALS
+CGND_13867,Female,Bulbar,Bulbar,50,54,Liver,5.1,NovaSeq,female,ALS + C9 repeat expansion
+CGND_13867,Female,Limb,"Limb - Upper Limb, Right Hand",71,72,Liver,3.4,NovaSeq,female,ALS
+CGND_13867,Male,Limb,"Limb - Upper Limb, Bilateral",43,47,Liver,3.1,NovaSeq,male,ALS + C9 repeat expansion
+CGND_13867,Male,Unknown,Unknown,73,80,Spinal_Cord_Cervical,3.8,NovaSeq,male,ALS + ATXN2 Intermediate repeat length
+CGND_14039,Female,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",75,78,Cerebellum,7.2,NovaSeq,female,ALS
+CGND_14039,Female,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",75,78,Cortex_Motor_Medial,5.6,NovaSeq,female,ALS
+CGND_14039,Female,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",75,78,Cortex_Motor_Lateral,6,NovaSeq,female,ALS
+CGND_14039,Female,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",75,78,Spinal_Cord_Cervical,8,NovaSeq,female,ALS
+CGND_14039,Female,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",75,78,Spinal_Cord_Lumbar,7,NovaSeq,female,ALS
+CGND_14039,Female,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",75,78,Cortex_Frontal,5.3,NovaSeq,female,ALS
+CGND_14039,Female,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",75,78,Spinal_Cord_Thoracic,7.5,NovaSeq,female,ALS
+CGND_14051,Female,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",75,78,Cortex_Occipital,6.1,NovaSeq,female,ALS
+CGND_14039,Male,Limb,"Limb - Upper Limb, Right Hand/Fingers",53,60,Cerebellum,7,NovaSeq,male,ALS
+CGND_14039,Male,Limb,"Limb - Upper Limb, Right Hand/Fingers",53,60,Cortex_Motor_Medial,7.5,NovaSeq,male,ALS
+CGND_14039,Male,Limb,"Limb - Upper Limb, Right Hand/Fingers",53,60,Cortex_Motor_Lateral,6.9,NovaSeq,male,ALS
+CGND_14039,Male,Limb,"Limb - Upper Limb, Right Hand/Fingers",53,60,Spinal_Cord_Cervical,8.3,NovaSeq,male,ALS
+CGND_14039,Male,Limb,"Limb - Upper Limb, Right Hand/Fingers",53,60,Spinal_Cord_Lumbar,7.3,NovaSeq,male,ALS
+CGND_14039,Male,Limb,"Limb - Upper Limb, Right Hand/Fingers",53,60,Choroid,7.7,NovaSeq,male,ALS
+CGND_14039,Male,Axial,"Axial - Trunk, Respiratory",71,72,Cerebellum,7.5,NovaSeq,male,ALS/FTD
+CGND_14039,Male,Axial,"Axial - Trunk, Respiratory",71,72,Cortex_Motor_Medial,6.9,NovaSeq,male,ALS/FTD
+CGND_14039,Male,Axial,"Axial - Trunk, Respiratory",71,72,Cortex_Motor_Lateral,7.5,NovaSeq,male,ALS/FTD
+CGND_14039,Male,Axial,"Axial - Trunk, Respiratory",71,72,Spinal_Cord_Cervical,7.1,NovaSeq,male,ALS/FTD
+CGND_14039,Male,Axial,"Axial - Trunk, Respiratory",71,72,Spinal_Cord_Lumbar,6.8,NovaSeq,male,ALS/FTD
+CGND_14039,Male,Axial,"Axial - Trunk, Respiratory",71,72,Cortex_Frontal,7.7,NovaSeq,male,ALS/FTD
+CGND_14039,Male,Axial,"Axial - Trunk, Respiratory",71,72,Spinal_Cord_Thoracic,7.7,NovaSeq,male,ALS/FTD
+CGND_14039,Male,Axial,"Axial - Trunk, Respiratory",71,72,Choroid,8.3,NovaSeq,male,ALS/FTD
+CGND_14051,Male,Axial,"Axial - Trunk, Respiratory",71,72,Cortex_Occipital,7,NovaSeq,male,ALS/FTD
+CGND_14039,Female,Not Applicable,Not Applicable,Not Applicable,74,Cerebellum,5.8,NovaSeq,female,Non-Neurologic Control
+CGND_14039,Female,Not Applicable,Not Applicable,Not Applicable,74,Cortex_Motor_Medial,6,NovaSeq,female,Non-Neurologic Control
+CGND_14039,Female,Not Applicable,Not Applicable,Not Applicable,74,Cortex_Motor_Lateral,6.3,NovaSeq,female,Non-Neurologic Control
+CGND_14039,Female,Not Applicable,Not Applicable,Not Applicable,74,Spinal_Cord_Cervical,6,NovaSeq,female,Non-Neurologic Control
+CGND_14039,Female,Not Applicable,Not Applicable,Not Applicable,74,Spinal_Cord_Lumbar,6.1,NovaSeq,female,Non-Neurologic Control
+CGND_14039,Female,Not Applicable,Not Applicable,Not Applicable,74,Cortex_Frontal,6.6,NovaSeq,female,Non-Neurologic Control
+CGND_14039,Female,Not Applicable,Not Applicable,Not Applicable,74,Cortex_Occipital,5.9,NovaSeq,female,Non-Neurologic Control
+CGND_14039,Female,Not Applicable,Not Applicable,Not Applicable,74,Spinal_Cord_Thoracic,8.1,NovaSeq,female,Non-Neurologic Control
+CGND_14039,Female,Bulbar,Bulbar - Speech and Swallowing,46,51,Cerebellum,7.7,NovaSeq,female,ALS + C9 repeat expansion + ATXN2 Intermediate repeats
+CGND_14039,Female,Bulbar,Bulbar - Speech and Swallowing,46,51,Cortex_Motor_Medial,6.3,NovaSeq,female,ALS + C9 repeat expansion + ATXN2 Intermediate repeats
+CGND_14039,Female,Bulbar,Bulbar - Speech and Swallowing,46,51,Cortex_Motor_Lateral,7.8,NovaSeq,female,ALS + C9 repeat expansion + ATXN2 Intermediate repeats
+CGND_14039,Female,Bulbar,Bulbar - Speech and Swallowing,46,51,Spinal_Cord_Cervical,7.4,NovaSeq,female,ALS + C9 repeat expansion + ATXN2 Intermediate repeats
+CGND_14039,Female,Bulbar,Bulbar - Speech and Swallowing,46,51,Cortex_Frontal,7.1,NovaSeq,female,ALS + C9 repeat expansion + ATXN2 Intermediate repeats
+CGND_14039,Female,Bulbar,Bulbar - Speech and Swallowing,46,51,Cortex_Occipital,7.5,NovaSeq,female,ALS + C9 repeat expansion + ATXN2 Intermediate repeats
+CGND_14051,Female,Bulbar,Bulbar - Speech and Swallowing,46,51,Spinal_Cord_Lumbar,7.4,NovaSeq,female,ALS + C9 repeat expansion + ATXN2 Intermediate repeats
+CGND_14051,Female,Bulbar,Bulbar - Speech and Swallowing,46,51,Spinal_Cord_Thoracic,7.5,NovaSeq,female,ALS + C9 repeat expansion + ATXN2 Intermediate repeats
+CGND_14051,Female,Bulbar,Bulbar - Speech and Swallowing,46,51,Choroid,8.2,NovaSeq,female,ALS + C9 repeat expansion + ATXN2 Intermediate repeats
+CGND_14039,Female,Bulbar,Bulbar - Speech,54,56,Cortex_Frontal,6.2,NovaSeq,female,ALS
+CGND_14051,Female,Bulbar,Bulbar - Speech,54,56,Cortex_Motor_Lateral,4.4,NovaSeq,female,ALS
+CGND_14051,Female,Bulbar,Bulbar - Speech,54,56,Spinal_Cord_Lumbar,5.9,NovaSeq,female,ALS
+CGND_14051,Female,Bulbar,Bulbar - Speech,54,56,Spinal_Cord_Cervical,6.4,NovaSeq,female,ALS
+CGND_14051,Female,Bulbar,Bulbar - Speech,54,56,Cerebellum,4.5,NovaSeq,female,ALS
+CGND_14077,Female,Bulbar,Bulbar - Speech,54,56,Spinal_Cord_Thoracic,6.4,NovaSeq,female,ALS
+CGND_14077,Female,Bulbar,Bulbar - Speech,54,56,Cortex_Occipital,5.6,NovaSeq,female,ALS
+CGND_14039,Male,Bulbar,Bulbar - Speech,57,64,Spinal_Cord_Thoracic,8,NovaSeq,male,ALS + C9 repeat expansion
+CGND_14039,Male,Bulbar,Bulbar - Speech,57,64,Cortex_Frontal,5.2,NovaSeq,male,ALS + C9 repeat expansion
+CGND_14039,Male,Bulbar,Bulbar - Speech,57,64,Cerebellum,7.5,NovaSeq,male,ALS + C9 repeat expansion
+CGND_14051,Male,Bulbar,Bulbar - Speech,57,64,Cortex_Motor_Medial,5.9,NovaSeq,male,ALS + C9 repeat expansion
+CGND_14051,Male,Bulbar,Bulbar - Speech,57,64,Cortex_Motor_Lateral,5.9,NovaSeq,male,ALS + C9 repeat expansion
+CGND_14051,Male,Bulbar,Bulbar - Speech,57,64,Spinal_Cord_Lumbar,6.1,NovaSeq,male,ALS + C9 repeat expansion
+CGND_14051,Male,Bulbar,Bulbar - Speech,57,64,Spinal_Cord_Cervical,6.6,NovaSeq,male,ALS + C9 repeat expansion
+CGND_14051,Male,Bulbar,Bulbar - Speech,57,64,Cortex_Occipital,5.7,NovaSeq,male,ALS + C9 repeat expansion
+CGND_14039,Male,Bulbar and Limb,"Bulbar - Speech and Swallowing; Limb - Upper Limb,  Right Hand/Fingers",61,66,Cerebellum,8.1,NovaSeq,male,ALS
+CGND_14039,Male,Bulbar and Limb,"Bulbar - Speech and Swallowing; Limb - Upper Limb,  Right Hand/Fingers",61,66,Cortex_Frontal,7,NovaSeq,male,ALS
+CGND_14039,Male,Bulbar and Limb,"Bulbar - Speech and Swallowing; Limb - Upper Limb,  Right Hand/Fingers",61,66,Choroid,6,NovaSeq,male,ALS
+CGND_14051,Male,Bulbar and Limb,"Bulbar - Speech and Swallowing; Limb - Upper Limb,  Right Hand/Fingers",61,66,Cortex_Motor_Medial,6.9,NovaSeq,male,ALS
+CGND_14051,Male,Bulbar and Limb,"Bulbar - Speech and Swallowing; Limb - Upper Limb,  Right Hand/Fingers",61,66,Cortex_Motor_Lateral,6.9,NovaSeq,male,ALS
+CGND_14051,Male,Bulbar and Limb,"Bulbar - Speech and Swallowing; Limb - Upper Limb,  Right Hand/Fingers",61,66,Spinal_Cord_Cervical,7.6,NovaSeq,male,ALS
+CGND_14051,Male,Bulbar and Limb,"Bulbar - Speech and Swallowing; Limb - Upper Limb,  Right Hand/Fingers",61,66,Spinal_Cord_Lumbar,7.6,NovaSeq,male,ALS
+CGND_14039,Male,Axial and Bulbar,"Axial - Trunk, Respiratory; Bulbar - Swallowing",45,55,Choroid,7.4,NovaSeq,male,ALS/FTD
+CGND_14039,Male,Axial and Bulbar,"Axial - Trunk, Respiratory; Bulbar - Swallowing",45,55,Cortex_Frontal,6.7,NovaSeq,male,ALS/FTD
+CGND_14039,Male,Axial and Bulbar,"Axial - Trunk, Respiratory; Bulbar - Swallowing",45,55,Cerebellum,7,NovaSeq,male,ALS/FTD
+CGND_14051,Male,Axial and Bulbar,"Axial - Trunk, Respiratory; Bulbar - Swallowing",45,55,Cortex_Motor_Medial,7.6,NovaSeq,male,ALS/FTD
+CGND_14051,Male,Axial and Bulbar,"Axial - Trunk, Respiratory; Bulbar - Swallowing",45,55,Cortex_Motor_Lateral,6.2,NovaSeq,male,ALS/FTD
+CGND_14051,Male,Axial and Bulbar,"Axial - Trunk, Respiratory; Bulbar - Swallowing",45,55,Spinal_Cord_Cervical,5.8,NovaSeq,male,ALS/FTD
+CGND_14051,Male,Axial and Bulbar,"Axial - Trunk, Respiratory; Bulbar - Swallowing",45,55,Spinal_Cord_Lumbar,6.3,NovaSeq,male,ALS/FTD
+CGND_14117,Male,Axial and Bulbar,"Axial - Trunk, Respiratory; Bulbar - Swallowing",45,55,Cortex_Occipital,6.6,,male,ALS/FTD
+CGND_14039,Male,Limb,"Limb - Lower Limb, Left Leg, Ankle/Foot/Toes",40,44,Cortex_Frontal,6,NovaSeq,male,ALS + CTE
+CGND_14039,Male,Limb,"Limb - Lower Limb, Left Leg, Ankle/Foot/Toes",40,44,Spinal_Cord_Thoracic,8,NovaSeq,male,ALS + CTE
+CGND_14039,Male,Limb,"Limb - Lower Limb, Left Leg, Ankle/Foot/Toes",40,44,Choroid,8.4,NovaSeq,male,ALS + CTE
+CGND_14051,Male,Limb,"Limb - Lower Limb, Left Leg, Ankle/Foot/Toes",40,44,Cerebellum,6.4,NovaSeq,male,ALS + CTE
+CGND_14051,Male,Limb,"Limb - Lower Limb, Left Leg, Ankle/Foot/Toes",40,44,Cortex_Motor_Lateral,7.6,NovaSeq,male,ALS + CTE
+CGND_14051,Male,Limb,"Limb - Lower Limb, Left Leg, Ankle/Foot/Toes",40,44,Spinal_Cord_Cervical,6.7,NovaSeq,male,ALS + CTE
+CGND_14051,Male,Limb,"Limb - Lower Limb, Left Leg, Ankle/Foot/Toes",40,44,Spinal_Cord_Lumbar,6.8,NovaSeq,male,ALS + CTE
+CGND_14077,Male,Limb,"Limb - Lower Limb, Left Leg, Ankle/Foot/Toes",40,44,Cortex_Occipital,5.6,NovaSeq,male,ALS + CTE
+CGND_14039,Male,Limb,"Limb - Upper Limb, Hand/Fingers",71,77,Cortex_Frontal,4.7,NovaSeq,male,ALS + acute and severe hypoxia + ATXN2 Intermediate repeats
+CGND_14039,Male,Limb,"Limb - Upper Limb, Hand/Fingers",71,77,Choroid,6.3,NovaSeq,male,ALS + acute and severe hypoxia + ATXN2 Intermediate repeats
+CGND_14051,Male,Limb,"Limb - Upper Limb, Hand/Fingers",71,77,Cerebellum,7.5,NovaSeq,male,ALS + acute and severe hypoxia + ATXN2 Intermediate repeats
+CGND_14051,Male,Limb,"Limb - Upper Limb, Hand/Fingers",71,77,Cortex_Motor_Medial,5.9,NovaSeq,male,ALS + acute and severe hypoxia + ATXN2 Intermediate repeats
+CGND_14051,Male,Limb,"Limb - Upper Limb, Hand/Fingers",71,77,Spinal_Cord_Cervical,6.9,NovaSeq,male,ALS + acute and severe hypoxia + ATXN2 Intermediate repeats
+CGND_14051,Male,Limb,"Limb - Upper Limb, Hand/Fingers",71,77,Spinal_Cord_Thoracic,7.6,NovaSeq,male,ALS + acute and severe hypoxia + ATXN2 Intermediate repeats
+CGND_14077,Male,Limb,"Limb - Upper Limb, Hand/Fingers",71,77,Cortex_Motor_Lateral,5.9,NovaSeq,male,ALS + acute and severe hypoxia + ATXN2 Intermediate repeats
+CGND_14077,Male,Limb,"Limb - Upper Limb, Hand/Fingers",71,77,Spinal_Cord_Lumbar,6.9,NovaSeq,male,ALS + acute and severe hypoxia + ATXN2 Intermediate repeats
+CGND_14077,Male,Limb,"Limb - Upper Limb, Hand/Fingers",71,77,Cortex_Occipital,6.2,NovaSeq,male,ALS + acute and severe hypoxia + ATXN2 Intermediate repeats
+CGND_14039,Male,Bulbar and Limb,"Bulbar - Speech; Limb - Upper Limb, Right Hand/Fingers",65,67,Cortex_Temporal,7.1,NovaSeq,male,ALS
+CGND_14077,Male,Bulbar and Limb,"Bulbar - Speech; Limb - Upper Limb, Right Hand/Fingers",65,67,Cortex_Motor_Lateral,7.1,NovaSeq,male,ALS
+CGND_14077,Male,Bulbar and Limb,"Bulbar - Speech; Limb - Upper Limb, Right Hand/Fingers",65,67,Spinal_Cord_Lumbar,8.1,NovaSeq,male,ALS
+CGND_14077,Male,Bulbar and Limb,"Bulbar - Speech; Limb - Upper Limb, Right Hand/Fingers",65,67,Spinal_Cord_Cervical,7.5,NovaSeq,male,ALS
+CGND_14077,Male,Bulbar and Limb,"Bulbar - Speech; Limb - Upper Limb, Right Hand/Fingers",65,67,Cerebellum,7.8,NovaSeq,male,ALS
+CGND_14077,Male,Bulbar and Limb,"Bulbar - Speech; Limb - Upper Limb, Right Hand/Fingers",65,67,Cortex_Frontal,6.2,NovaSeq,male,ALS
+CGND_14039,Female,Unknown,Unknown,59,61,Choroid,5.1,NovaSeq,female,ALS
+CGND_14051,Female,Unknown,Unknown,59,61,Cerebellum,6.9,NovaSeq,female,ALS
+CGND_14051,Female,Unknown,Unknown,59,61,Cortex_Motor_Lateral,5,NovaSeq,female,ALS
+CGND_14051,Female,Unknown,Unknown,59,61,Spinal_Cord_Cervical,7.6,NovaSeq,female,ALS
+CGND_14051,Female,Unknown,Unknown,59,61,Cortex_Frontal,7.8,NovaSeq,female,ALS
+CGND_14077,Female,Unknown,Unknown,59,61,Spinal_Cord_Lumbar,7.3,NovaSeq,female,ALS
+CGND_14117,Female,Unknown,Unknown,59,61,Cortex_Occipital,6.7,,female,ALS
+CGND_14117,Female,Unknown,Unknown,59,61,Spinal_Cord_Thoracic,7.7,,female,ALS
+CGND_14039,Female,Limb,"Limb - Upper Limb, Left Hand/Fingers",57,62,Choroid,7.4,NovaSeq,female,ALS
+CGND_14039,Female,Limb,"Limb - Lower Limb, Right",47,58,Choroid,8.4,NovaSeq,female,Other MND - Primary Lateral Sclerosis (PLS)
+CGND_14117,Female,Limb,"Limb - Lower Limb, Right",47,58,Cortex_Motor_Medial,5.7,,female,Other MND - Primary Lateral Sclerosis (PLS)
+CGND_14117,Female,Limb,"Limb - Lower Limb, Right",47,58,Cortex_Motor_Lateral,5.3,,female,Other MND - Primary Lateral Sclerosis (PLS)
+CGND_14117,Female,Limb,"Limb - Lower Limb, Right",47,58,Spinal_Cord_Cervical,6.8,,female,Other MND - Primary Lateral Sclerosis (PLS)
+CGND_14117,Female,Limb,"Limb - Lower Limb, Right",47,58,Spinal_Cord_Lumbar,7,,female,Other MND - Primary Lateral Sclerosis (PLS)
+CGND_14117,Female,Limb,"Limb - Lower Limb, Right",47,58,Cortex_Frontal,5.9,,female,Other MND - Primary Lateral Sclerosis (PLS)
+CGND_14117,Female,Limb,"Limb - Lower Limb, Right",47,58,Cerebellum,5.6,,female,Other MND - Primary Lateral Sclerosis (PLS)
+CGND_14039,Female,Limb,"Limb - Lower Limb, Ankle/Foot/Toes",58,61,Choroid,8,NovaSeq,female,ALS/FTD + C9 repeat expansion
+CGND_14117,Female,Limb,"Limb - Lower Limb, Ankle/Foot/Toes",58,61,Cortex_Motor_Medial,7.2,,female,ALS/FTD + C9 repeat expansion
+CGND_14117,Female,Limb,"Limb - Lower Limb, Ankle/Foot/Toes",58,61,Cortex_Motor_Lateral,6.7,,female,ALS/FTD + C9 repeat expansion
+CGND_14117,Female,Limb,"Limb - Lower Limb, Ankle/Foot/Toes",58,61,Spinal_Cord_Cervical,7.4,,female,ALS/FTD + C9 repeat expansion
+CGND_14117,Female,Limb,"Limb - Lower Limb, Ankle/Foot/Toes",58,61,Spinal_Cord_Lumbar,7.1,,female,ALS/FTD + C9 repeat expansion
+CGND_14117,Female,Limb,"Limb - Lower Limb, Ankle/Foot/Toes",58,61,Cortex_Frontal,7.3,,female,ALS/FTD + C9 repeat expansion
+CGND_14117,Female,Limb,"Limb - Lower Limb, Ankle/Foot/Toes",58,61,Cerebellum,7.7,,female,ALS/FTD + C9 repeat expansion
+CGND_14039,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",67,72,Choroid,7.6,NovaSeq,male,ALS/FTD
+CGND_14117,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",67,72,Cerebellum,7.5,,male,ALS/FTD
+CGND_14117,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",67,72,Cortex_Motor_Medial,6.3,,male,ALS/FTD
+CGND_14117,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",67,72,Cortex_Motor_Lateral,6.5,,male,ALS/FTD
+CGND_14117,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",67,72,Spinal_Cord_Cervical,7.5,,male,ALS/FTD
+CGND_14117,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",67,72,Spinal_Cord_Lumbar,7.6,,male,ALS/FTD
+CGND_14117,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",67,72,Cortex_Frontal,6.2,,male,ALS/FTD
+CGND_14039,Male,Generalized,Generalized,44,56,Choroid,7.6,NovaSeq,male,ALS
+CGND_14051,Female,Limb,"Limb - Upper Limb, Left Hand/Fingers",61,66,Cerebellum,4.9,NovaSeq,female,ALS + C9 repeat expansion + ATXN2 Intermediate repeats
+CGND_14051,Female,Limb,"Limb - Upper Limb, Left Hand/Fingers",61,66,Cortex_Frontal,4.5,NovaSeq,female,ALS + C9 repeat expansion + ATXN2 Intermediate repeats
+CGND_14051,Female,Limb,"Limb - Upper Limb, Left Hand/Fingers",61,66,Cortex_Motor_Medial,4.2,NovaSeq,female,ALS + C9 repeat expansion + ATXN2 Intermediate repeats
+CGND_14051,Female,Limb,"Limb - Upper Limb, Left Hand/Fingers",61,66,Cortex_Motor_Lateral,5.6,NovaSeq,female,ALS + C9 repeat expansion + ATXN2 Intermediate repeats
+CGND_14051,Female,Limb,"Limb - Upper Limb, Left Hand/Fingers",61,66,Spinal_Cord_Cervical,7.1,NovaSeq,female,ALS + C9 repeat expansion + ATXN2 Intermediate repeats
+CGND_14051,Female,Limb,"Limb - Upper Limb, Left Hand/Fingers",61,66,Spinal_Cord_Lumbar,6.4,NovaSeq,female,ALS + C9 repeat expansion + ATXN2 Intermediate repeats
+CGND_14051,Female,Limb,"Limb - Upper Limb, Left Hand/Fingers",61,66,Choroid,7.2,NovaSeq,female,ALS + C9 repeat expansion + ATXN2 Intermediate repeats
+CGND_14051,Female,Unknown,Unknown,67,69,Cerebellum,7.2,NovaSeq,female,ALS + Tauopathy
+CGND_14051,Female,Unknown,Unknown,67,69,Cortex_Motor_Medial,6,NovaSeq,female,ALS + Tauopathy
+CGND_14051,Female,Unknown,Unknown,67,69,Cortex_Motor_Lateral,6.3,NovaSeq,female,ALS + Tauopathy
+CGND_14051,Female,Unknown,Unknown,67,69,Spinal_Cord_Cervical,6.8,NovaSeq,female,ALS + Tauopathy
+CGND_14051,Female,Unknown,Unknown,67,69,Cortex_Frontal,6.8,NovaSeq,female,ALS + Tauopathy
+CGND_14077,Female,Unknown,Unknown,67,69,Spinal_Cord_Lumbar,5.8,NovaSeq,female,ALS + Tauopathy
+CGND_14077,Female,Unknown,Unknown,67,69,Cortex_Occipital,6.3,NovaSeq,female,ALS + Tauopathy
+CGND_14077,Female,Unknown,Unknown,67,69,Spinal_Cord_Thoracic,8,NovaSeq,female,ALS + Tauopathy
+CGND_14051,Male,Bulbar,Bulbar - Speech,50,54,Cortex_Frontal,4.8,NovaSeq,male,ALS
+CGND_14077,Male,Bulbar,Bulbar - Speech,50,54,Cortex_Motor_Medial,5.6,NovaSeq,male,ALS
+CGND_14077,Male,Bulbar,Bulbar - Speech,50,54,Cortex_Motor_Lateral,6.7,NovaSeq,male,ALS
+CGND_14077,Male,Bulbar,Bulbar - Speech,50,54,Spinal_Cord_Cervical,6.6,NovaSeq,male,ALS
+CGND_14077,Male,Bulbar,Bulbar - Speech,50,54,Spinal_Cord_Lumbar,7.6,NovaSeq,male,ALS
+CGND_14051,Male,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",61,64,Cortex_Frontal,4.5,NovaSeq,male,ALS
+CGND_14077,Male,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",61,64,Cortex_Motor_Medial,5.2,NovaSeq,male,ALS
+CGND_14077,Male,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",61,64,Cortex_Motor_Lateral,4.4,NovaSeq,male,ALS
+CGND_14077,Male,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",61,64,Spinal_Cord_Cervical,7.1,NovaSeq,male,ALS
+CGND_14077,Male,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",61,64,Spinal_Cord_Lumbar,7,NovaSeq,male,ALS
+CGND_14051,Male,Limb,"Limb - Upper Limb, Left Hand/fingers",44,48,Cortex_Frontal,6.3,NovaSeq,male,ALS
+CGND_14051,Male,Limb,"Limb - Upper Limb, Left Hand/fingers",44,48,Cerebellum,7.3,NovaSeq,male,ALS
+CGND_14077,Male,Limb,"Limb - Upper Limb, Left Hand/fingers",44,48,Cortex_Motor_Medial,6.1,NovaSeq,male,ALS
+CGND_14077,Male,Limb,"Limb - Upper Limb, Left Hand/fingers",44,48,Cortex_Motor_Lateral,5.5,NovaSeq,male,ALS
+CGND_14077,Male,Limb,"Limb - Upper Limb, Left Hand/fingers",44,48,Spinal_Cord_Cervical,7.4,NovaSeq,male,ALS
+CGND_14077,Male,Limb,"Limb - Upper Limb, Left Hand/fingers",44,48,Spinal_Cord_Lumbar,7,NovaSeq,male,ALS
+CGND_14051,Male,Bulbar,Bulbar - Speech,49,53,Cortex_Frontal,6.6,NovaSeq,male,ALS
+CGND_14077,Male,Bulbar,Bulbar - Speech,49,53,Cortex_Motor_Medial,6.8,NovaSeq,male,ALS
+CGND_14077,Male,Bulbar,Bulbar - Speech,49,53,Cortex_Motor_Lateral,6.5,NovaSeq,male,ALS
+CGND_14077,Male,Bulbar,Bulbar - Speech,49,53,Spinal_Cord_Cervical,7.6,NovaSeq,male,ALS
+CGND_14077,Male,Bulbar,Bulbar - Speech,49,53,Spinal_Cord_Lumbar,8,NovaSeq,male,ALS
+CGND_14051,Male,Limb,"Limb - Lower Limb, Bilateral Ankle/Foot/Toes",53,59,Spinal_Cord_Lumbar,6.2,NovaSeq,male,ALS
+CGND_14051,Male,Limb,"Limb - Lower Limb, Bilateral Ankle/Foot/Toes",53,59,Cortex_Frontal,5.9,NovaSeq,male,ALS
+CGND_14077,Male,Limb,"Limb - Lower Limb, Bilateral Ankle/Foot/Toes",53,59,Cortex_Motor_Medial,6.3,NovaSeq,male,ALS
+CGND_14077,Male,Limb,"Limb - Lower Limb, Bilateral Ankle/Foot/Toes",53,59,Spinal_Cord_Cervical,7.2,NovaSeq,male,ALS
+CGND_14077,Male,Limb,"Limb - Lower Limb, Bilateral Ankle/Foot/Toes",53,59,Cerebellum,6,NovaSeq,male,ALS
+CGND_14117,Male,Limb,"Limb - Lower Limb, Bilateral Ankle/Foot/Toes",53,59,Cortex_Motor_Lateral,6.1,,male,ALS
+CGND_14051,Male,Limb,Limb - Upper Limb,65,68,Cortex_Motor_Unspecified,7.3,NovaSeq,male,ALS
+CGND_14077,Male,Limb,Limb - Upper Limb,65,68,Cortex_Frontal,7,NovaSeq,male,ALS
+CGND_14077,Male,Limb,Limb - Upper Limb,65,68,Cerebellum,6.4,NovaSeq,male,ALS
+CGND_14117,Male,Limb,Limb - Upper Limb,65,68,Spinal_Cord_Cervical,7,,male,ALS
+CGND_14117,Male,Limb,Limb - Upper Limb,65,68,Spinal_Cord_Lumbar,7.6,,male,ALS
+CGND_14051,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",66,67,Cortex_Temporal,6.7,NovaSeq,male,ALS
+CGND_14077,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",66,67,Cortex_Motor_Medial,7.4,NovaSeq,male,ALS
+CGND_14077,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",66,67,Cortex_Motor_Lateral,7.4,NovaSeq,male,ALS
+CGND_14077,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",66,67,Spinal_Cord_Lumbar,8.2,NovaSeq,male,ALS
+CGND_14077,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",66,67,Spinal_Cord_Cervical,7.6,NovaSeq,male,ALS
+CGND_14117,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",66,67,Cerebellum,7.5,,male,ALS
+CGND_14117,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",66,67,Cortex_Frontal,7.2,,male,ALS
+CGND_14051,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",63,68,Choroid,6.9,NovaSeq,female,ALS
+CGND_14117,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",63,68,Cortex_Motor_Lateral,7,,female,ALS
+CGND_14117,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",63,68,Spinal_Cord_Cervical,7.8,,female,ALS
+CGND_14117,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",63,68,Spinal_Cord_Lumbar,7.7,,female,ALS
+CGND_14117,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",63,68,Cortex_Frontal,7.5,,female,ALS
+CGND_14117,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",63,68,Cerebellum,7.2,,female,ALS
+CGND_14051,Female,Unknown,Unknown,60,62,Choroid,8,NovaSeq,female,ALS/FTD + C9 repeat expansion
+CGND_14077,Female,Unknown,Unknown,60,62,Cerebellum,7.1,NovaSeq,female,ALS/FTD + C9 repeat expansion
+CGND_14117,Female,Unknown,Unknown,60,62,Cortex_Occipital,7.5,,female,ALS/FTD + C9 repeat expansion
+CGND_14051,Male,Limb,"Limb - Upper and Lower Limb, Left",52,55,Choroid,8.7,NovaSeq,male,ALS
+CGND_14117,Male,Limb,"Limb - Upper and Lower Limb, Left",52,55,Cortex_Frontal,6.8,,male,ALS
+CGND_14117,Male,Limb,"Limb - Upper and Lower Limb, Left",52,55,Cerebellum,7.1,,male,ALS
+CGND_14117,Male,Limb,"Limb - Upper and Lower Limb, Left",52,55,Cortex_Motor_Medial,5,,male,ALS
+CGND_14117,Male,Limb,"Limb - Upper and Lower Limb, Left",52,55,Cortex_Motor_Lateral,7,,male,ALS
+CGND_14117,Male,Limb,"Limb - Upper and Lower Limb, Left",52,55,Spinal_Cord_Cervical,7.1,,male,ALS
+CGND_14117,Male,Limb,"Limb - Upper and Lower Limb, Left",52,55,Spinal_Cord_Lumbar,7.4,,male,ALS
+CGND_14051,Male,Unknown,Unknown,Unknown,40,Choroid,8.4,NovaSeq,male,ALS + Tauopathy
+CGND_14117,Male,Unknown,Unknown,Unknown,40,Cerebellum,7.9,,male,ALS + Tauopathy
+CGND_14117,Male,Unknown,Unknown,Unknown,40,Cortex_Motor_Medial,6.8,,male,ALS + Tauopathy
+CGND_14117,Male,Unknown,Unknown,Unknown,40,Spinal_Cord_Lumbar,7.8,,male,ALS + Tauopathy
+CGND_14117,Male,Unknown,Unknown,Unknown,40,Cortex_Frontal,8,,male,ALS + Tauopathy
+CGND_14051,Male,Not Applicable,Not Applicable,Not Applicable,52,Choroid,7.8,NovaSeq,male,Non-Neurologic Control
+CGND_14077,Male,Not Applicable,Not Applicable,Not Applicable,52,Cerebellum,7,NovaSeq,male,Non-Neurologic Control
+CGND_14117,Male,Not Applicable,Not Applicable,Not Applicable,52,Spinal_Cord_Lumbar,6.8,,male,Non-Neurologic Control
+CGND_14051,Female,Not Applicable,Not Applicable,Not Applicable,63,Choroid,7.7,NovaSeq,female,Non-Neurologic Control
+CGND_14117,Female,Not Applicable,Not Applicable,Not Applicable,63,Cortex_Frontal,2.9,,female,Non-Neurologic Control
+CGND_14117,Female,Not Applicable,Not Applicable,Not Applicable,63,Cortex_Motor_Lateral,6.8,,female,Non-Neurologic Control
+CGND_14077,Female,Limb,"Limb - Upper Limb, Right Arm",29,32,Cortex_Motor_Medial,3.8,NovaSeq,female,ALS
+CGND_14077,Female,Limb,"Limb - Upper Limb, Right Arm",29,32,Cortex_Motor_Lateral,3.9,NovaSeq,female,ALS
+CGND_14077,Female,Limb,"Limb - Upper Limb, Right Arm",29,32,Spinal_Cord_Cervical,7.9,NovaSeq,female,ALS
+CGND_14077,Female,Limb,"Limb - Upper Limb, Right Arm",29,32,Spinal_Cord_Lumbar,7.1,NovaSeq,female,ALS
+CGND_14077,Female,Limb,"Limb - Upper Limb, Right Arm",29,32,Cortex_Frontal,4.5,NovaSeq,female,ALS
+CGND_14077,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",64,65,Cortex_Motor_Medial,6.5,NovaSeq,female,ALS
+CGND_14077,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",64,65,Cortex_Motor_Lateral,5.6,NovaSeq,female,ALS
+CGND_14077,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",64,65,Spinal_Cord_Cervical,6.5,NovaSeq,female,ALS
+CGND_14077,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",64,65,Spinal_Cord_Lumbar,8.7,NovaSeq,female,ALS
+CGND_14077,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",64,65,Cortex_Frontal,6.9,NovaSeq,female,ALS
+CGND_14077,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",64,65,Cerebellum,7.9,NovaSeq,female,ALS
+CGND_14077,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",42,45,Cortex_Motor_Medial,7.5,NovaSeq,female,ALS
+CGND_14077,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",42,45,Cortex_Motor_Lateral,6.5,NovaSeq,female,ALS
+CGND_14077,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",42,45,Spinal_Cord_Cervical,8,NovaSeq,female,ALS
+CGND_14077,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",42,45,Cortex_Temporal,7.6,NovaSeq,female,ALS
+CGND_14117,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",42,45,Spinal_Cord_Lumbar,7.5,,female,ALS
+CGND_14117,Female,Limb,"Limb - Lower Limb, Left Ankle/Foot/Toes",42,45,Cerebellum,7.7,,female,ALS
+CGND_14077,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",68,70,Cortex_Motor_Medial,6,NovaSeq,male,ALS + C9 repeat expansion
+CGND_14077,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",68,70,Cortex_Motor_Lateral,5.5,NovaSeq,male,ALS + C9 repeat expansion
+CGND_14077,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",68,70,Spinal_Cord_Cervical,6,NovaSeq,male,ALS + C9 repeat expansion
+CGND_14077,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",68,70,Cortex_Temporal,6,NovaSeq,male,ALS + C9 repeat expansion
+CGND_14117,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",68,70,Spinal_Cord_Lumbar,6.5,,male,ALS + C9 repeat expansion
+CGND_14117,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",68,70,Cerebellum,6.6,,male,ALS + C9 repeat expansion
+CGND_14117,Male,Limb,"Limb - Upper Limb, Left Hand/Fingers",68,70,Cortex_Frontal,7.6,,male,ALS + C9 repeat expansion
+CGND_14077,Male,Axial,Axial - Neck,55,57,Spinal_Cord_Lumbar,6.9,NovaSeq,male,ALS/FTD
+CGND_14077,Male,Axial,Axial - Neck,55,57,Cortex_Frontal,6.7,NovaSeq,male,ALS/FTD
+CGND_14077,Male,Axial,Axial - Neck,55,57,Cerebellum,5.9,NovaSeq,male,ALS/FTD
+CGND_14117,Male,Axial,Axial - Neck,55,57,Cortex_Motor_Medial,6.5,,male,ALS/FTD
+CGND_14117,Male,Axial,Axial - Neck,55,57,Cortex_Motor_Lateral,6.9,,male,ALS/FTD
+CGND_14117,Male,Axial,Axial - Neck,55,57,Spinal_Cord_Cervical,6.7,,male,ALS/FTD
+CGND_14077,Male,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",66,67,Cortex_Frontal,6.5,NovaSeq,male,ALS
+CGND_14077,Male,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",66,67,Cerebellum,6.9,NovaSeq,male,ALS
+CGND_14117,Male,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",66,67,Cortex_Motor_Medial,6.7,,male,ALS
+CGND_14117,Male,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",66,67,Cortex_Motor_Lateral,6.8,,male,ALS
+CGND_14117,Male,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",66,67,Spinal_Cord_Cervical,7.8,,male,ALS
+CGND_14117,Male,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",66,67,Spinal_Cord_Lumbar,7.7,,male,ALS
+CGND_14077,Male,Bulbar,Bulbar - Speech,58,60,Cortex_Frontal,5.8,NovaSeq,male,ALS
+CGND_14077,Male,Bulbar,Bulbar - Speech,58,60,Cerebellum,6.5,NovaSeq,male,ALS
+CGND_14117,Male,Bulbar,Bulbar - Speech,58,60,Cortex_Motor_Medial,5.5,,male,ALS
+CGND_14117,Male,Bulbar,Bulbar - Speech,58,60,Cortex_Motor_Lateral,6.2,,male,ALS
+CGND_14117,Male,Bulbar,Bulbar - Speech,58,60,Spinal_Cord_Cervical,7.6,,male,ALS
+CGND_14077,Female,Bulbar,Bulbar - Speech,52,55,Cortex_Motor_Lateral,5,NovaSeq,female,ALS + C9 repeat expansion
+CGND_14077,Female,Bulbar,Bulbar - Speech,52,55,Spinal_Cord_Cervical,6.8,NovaSeq,female,ALS + C9 repeat expansion
+CGND_14077,Female,Bulbar,Bulbar - Speech,52,55,Cortex_Frontal,7.3,NovaSeq,female,ALS + C9 repeat expansion
+CGND_14077,Female,Bulbar,Bulbar - Speech,52,55,Cerebellum,6.6,NovaSeq,female,ALS + C9 repeat expansion
+CGND_14117,Female,Bulbar,Bulbar - Speech,52,55,Cortex_Motor_Medial,6.5,,female,ALS + C9 repeat expansion
+CGND_14077,Male,Limb,"Limb - Upper Limb, Right Hand/Fingers",76,78,Cortex_Frontal,3.4,NovaSeq,male,ALS
+CGND_14117,Male,Limb,"Limb - Upper Limb, Right Hand/Fingers",76,78,Cortex_Motor_Lateral,6.2,,male,ALS
+CGND_14117,Male,Limb,"Limb - Upper Limb, Right Hand/Fingers",76,78,Spinal_Cord_Cervical,8.1,,male,ALS
+CGND_14077,Female,Bulbar,Bulbar - Speech,72,73,Cortex_Motor_Lateral,6.1,NovaSeq,female,ALS/FTD + C9 repeat expansion
+CGND_14077,Female,Bulbar,Bulbar - Speech,72,73,Cortex_Frontal,6.9,NovaSeq,female,ALS/FTD + C9 repeat expansion
+CGND_14117,Female,Bulbar,Bulbar - Speech,72,73,Cortex_Motor_Medial,6.9,,female,ALS/FTD + C9 repeat expansion
+CGND_14117,Female,Bulbar,Bulbar - Speech,72,73,Spinal_Cord_Cervical,7.2,,female,ALS/FTD + C9 repeat expansion
+CGND_14077,Male,Generalized,"Generalized; Bulbar; Limb - Upper Limb, Left Hand/Fingers",65,68,Cerebellum,7.1,NovaSeq,male,ALS + C9 repeat expansion
+CGND_14077,Male,Generalized,"Generalized; Bulbar; Limb - Upper Limb, Left Hand/Fingers",65,68,Cortex_Frontal,4.7,NovaSeq,male,ALS + C9 repeat expansion
+CGND_14117,Male,Generalized,"Generalized; Bulbar; Limb - Upper Limb, Left Hand/Fingers",65,68,Cortex_Motor_Medial,6.3,,male,ALS + C9 repeat expansion
+CGND_14117,Male,Generalized,"Generalized; Bulbar; Limb - Upper Limb, Left Hand/Fingers",65,68,Cortex_Motor_Lateral,4.7,,male,ALS + C9 repeat expansion
+CGND_14117,Male,Generalized,"Generalized; Bulbar; Limb - Upper Limb, Left Hand/Fingers",65,68,Spinal_Cord_Cervical,6.5,,male,ALS + C9 repeat expansion
+CGND_14117,Male,Generalized,"Generalized; Bulbar; Limb - Upper Limb, Left Hand/Fingers",65,68,Spinal_Cord_Lumbar,6.9,,male,ALS + C9 repeat expansion
+CGND_14117,Male,Limb,"Limb - Upper Limb, Right Hand/Fingers",65,67,Cerebellum,8,,male,ALS
+CGND_14117,Male,Limb,"Limb - Upper Limb, Right Hand/Fingers",65,67,Cortex_Frontal,7.4,,male,ALS
+CGND_14117,Male,Limb,"Limb - Upper Limb, Right Hand/Fingers",65,67,Cortex_Temporal,7.1,,male,ALS
+CGND_14117,Male,Limb,"Limb - Upper Limb, Right Hand/Fingers",65,67,Cortex_Motor_Lateral,6.6,,male,ALS
+CGND_14117,Male,Limb,"Limb - Upper Limb, Right Hand/Fingers",65,67,Cortex_Motor_Medial,7.2,,male,ALS
+CGND_14117,Male,Limb,"Limb - Upper Limb, Right Hand/Fingers",65,67,Spinal_Cord_Lumbar,7.2,,male,ALS
+CGND_14117,Male,Limb,"Limb - Upper Limb, Right Hand/Fingers",65,67,Spinal_Cord_Cervical,7.6,,male,ALS
+CGND_14117,Female,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",66,69,Cerebellum,7.3,,female,ALS
+CGND_14117,Female,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",66,69,Cortex_Frontal,7,,female,ALS
+CGND_14117,Female,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",66,69,Cortex_Motor_Lateral,7.4,,female,ALS
+CGND_14117,Female,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",66,69,Cortex_Motor_Medial,6.8,,female,ALS
+CGND_14117,Female,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",66,69,Spinal_Cord_Lumbar,8,,female,ALS
+CGND_14117,Female,Limb,"Limb - Lower Limb, Right Ankle/Foot/Toes",66,69,Spinal_Cord_Cervical,7.9,,female,ALS
+CGND_14117,Male,Limb,"Limb - Upper LImb, Left Hand/Fingers",77,80,Cerebellum,7.4,,male,ALS
+CGND_14117,Male,Limb,"Limb - Upper LImb, Left Hand/Fingers",77,80,Spinal_Cord_Lumbar,7.6,,male,ALS
+CGND_14117,Male,Limb,"Limb - Upper LImb, Left Hand/Fingers",77,80,Cortex_Frontal,6.5,,male,ALS
