@@ -4,8 +4,8 @@ library(dplyr)
 library(tidyverse)
 
 regions=c("med","lat")
-metadata<-as.data.frame(read_csv("C:/Users/vinisha/Documents/NYGC/metadata_labdefined.csv"))
-met<-metadata[c("ExternalSampleId","ExternalSubjectId","Sex","Subject Group","Subject Group Subcategory","Site of Motor Onset","Age at Death","Sample Source","Final Subject Group - Bowser lab defined")]
+metadata<-as.data.frame(read_csv("~/metadata_labdefined_net.csv"))
+met<-metadata[c("Sex","Site of Motor Onset","Age at Death","Sample Source","Final Subject Group - Bowser lab defined")]
 
 server <- function(input,output,session)
   {
@@ -15,9 +15,9 @@ server <- function(input,output,session)
     db = data.frame()#declaring a dataframe
     dataset <- input$selected_dataset #assigning the user input to DATASET
     if (dataset == "med")
-      db = as.data.frame(read_csv("C:/Users/vinisha/Documents/chelsea/CHIT1/motor_cortex/txi_medial_result.csv"))
+      db = as.data.frame(read_csv("~/txi_medial_result_net.csv"))
     else
-      db = as.data.frame(read_csv("C:/Users/vinisha/Documents/chelsea/CHIT1/motor_cortex/txi_lateral_result.csv"))
+      db = as.data.frame(read_csv("~/txi_lateral_result_net.csv"))
   })
   
   output$choose_gene = renderUI({
